@@ -1,0 +1,19 @@
+1. I want the AI to be able to generally beat any pokemon nuzlocke, but I can also provide it with a document explaining the AI and it will adapt to it.
+2. I am interested in it being to beat single battles while minimizing pokemon losses. I also want to implement a model that gives me a numeric value of how "useful" a pokemon is to the run.
+3. The AI should respect standard battle rules, however it cannot use items in battle. This will also allow to limit the options available to it, making it run faster.
+4. The primary goal of the AI is to survive as many battles as possible without losing a battle (Where every team member dies).
+5. The AI should consider in its choice: type effectiveness, move accuracy, status effects, predicted opponent move, amongst other basic pokemon mechanics.
+6. The AI should plan around 2 moves ahead.
+7. The AI should have a rule-based/heuristic method , while being able to calculate 2 moves ahead. It should also be able to learn over time with reinforced learning fine tuning.
+8. The AI should weight these factors: Damage output, survival probability, status infliction, long-term team and run value as well as things mentioned before. If the rules are too complicated or there are too many of them, then propose a way to mitigate this.
+9. The AI will not be interacting directly with the emulator or battle simulator. I do not know how I can provide it with information mid game so that it can make decisions in the middle of a battle, while being aware of each turn's outcome.
+10. I want the AI to be able to make its decision in less than 10 seconds
+11. I dont know how many games it will need to simulate, it depends of what type of learning method it uses.
+12. I just want this AI to only work with fixed trainers with all information on their pokemon.
+13. I want to start this project by facing my AI against the trainers of Emerald Kaizo, a ROM hack run on a GBA simulator.
+14. The AI needs to be aware of the trainer’s switch AI (basically, it needs to know what pokemon will be sent next depending on what pokemon you currently have out)
+
+Follow these directions loosely, just to have a general Idea of what I want. If you think something would
+work better, suggest a change.
+
+Use Poke-env when starting to train the AI for machine learning

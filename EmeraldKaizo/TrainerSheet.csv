@@ -1,5 +1,6 @@
 "Note: Inserting images over cells in sheets is pretty quirky, so if some of the trainer images on your screen appear misplaced, it's because the sheet couldn't load them all in properly. This visual bug can easily be fixed by refreshing the sheet and slowly scrolling through the part your using, to let each of the trainer images load in properly. If that doesn't work try switching to a different tab (on the bottom), then switching back. - Garrett :)",,,,,,
 Youngster Calvin (Route 102),,,,,,
+,,,,,,
 ,AI_FLAG:,1,,,,
 ,Sentret (m),Poochyena (m),Zigzagoon (m),,,
 ,Level 6 (Mild),Level 6 (Lax),Level 6 (Timid),,,
@@ -133,6 +134,7 @@ Lass Haley (N Route 104),,,,,,
 ,,,,,,
 Twins Gina & Mia (N Route 104) (Double Battle),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Smeargle (m),Smeargle (m),,,,
 ,Lv. 8,Lv. 8,,,,
 ,None,None,,,,
@@ -530,6 +532,7 @@ Tuber Chandler (Route 109),,,,,,
 ,,,,,,
 Aqua Grunt #1 (Slateport City) (B2B w/ Grunt #2),,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Shellder (m),Croconaw (m),Grimer (m),Lombre (m),Staryu,Vigoroth (m)
 ,Lv. 17 (Sassy),Lv. 18,Lv. 17 (Jolly),Lv. 18 (Lax),Lv. 19 (Naive,Lv. 18 (Hasty)
 ,Scope Lens,Scope Lens,Scope Lens,Focus Band,King's Rock,Rawst Berry
@@ -541,6 +544,7 @@ Aqua Grunt #1 (Slateport City) (B2B w/ Grunt #2),,,,,,
 ,,,,,,
 Aqua Grunt #2 (Slateport City) (B2B w/ Grunt #1),,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Wynaut (f),Chinchou (f),Smoochum (f),Wailmer (f),Dratini (f),Clamperl (f)
 ,Lv. 17,Lv. 19,Lv. 19 (Naughty),Lv. 18,Lv. 18 (Lax),Lv. 20 (Brave)
 ,Sitrus Berry,King's Rock,Scope Lens,Lax Incense,Leppa Berry,Deep Sea Tooth
@@ -651,6 +655,7 @@ Triathlete Alyssa (Route 110),,,,,,
 ,,,,,,
 Pokemon Trainer Wally (Mauville City),,,,,,
 ,,,,,,
+,AI_FLAG:,5,,,,
 ,Ralts (m),,,,,
 ,Lv. 70 (Naughty),,,,,
 ,Oran Berry,,,,,
@@ -1487,6 +1492,7 @@ Pokemon Breeder George (Recovery Room) B2,,,,,,
 ,,,,,,
 Cooltrainer Jody (Strength Room) A3,,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Dodrio (f),Marowak (f),Medicham (f),Flareon (m),Vaporeon (m),Zangoose (f)
 ,Lv. 43 (Rash),Lv. 42 (Hasty),Lv. 42 (Jolly),Lv. 42 (Naive),Lv. 42 (Mild),Lv. 43 (Rash)
 ,Silk Scarf,Thick Club,Lum Berry,Lum Berry,Mystic Water,Silk Scarf
@@ -1564,6 +1570,7 @@ Bird Keeper Hugh (Route 119),,,,,,
 ,,,,,,
 Pokemon Ranger Catherine (Route 119),,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Manectric (f),Politoed (f),Victreebel (f),Ursaring (f),,
 ,Lv. 45 (Sassy),Lv. 45,Lv. 45 (Lonely),Lv. 45 (Jolly),,
 ,Lum Berry,Leftovers,Lum Berry,Silk Scarf,,
@@ -1839,6 +1846,7 @@ Dragon Tamer Sora (Fortree Gym),,,,,,
 ,,,,,,
 Leader Winona (Double Battle),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Aerodactyl (m),Zapdos ,Crobat (m),Articuno,Flygon (m),Moltres
 ,Lv. 54 (Naive),Lv. 55 (Careful),Lv. 54 ,Lv. 55 (Hasty),Lv. 55 (Impish),Lv. 55 (Lax)
 ,Lum Berry,Lum Berry,Lum Berry,Lum Berry,Lum Berry,Lum Berry
@@ -1916,6 +1924,7 @@ Cooltrainer Jennifer (Route 120),,,,,,
 ,,,,,,
 Pokemon Ranger Jenna (Route 120),,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Hitmonlee (m),Rapidash (f),Manectric (f),Girafarig (f),,
 ,Lv. 51 (Naive),Lv. 51 (Quiet),Lv. 51 (Gentle),Lv. 52 (Modest),,
 ,Black Belt,Silk Scarf,Silk Scarf,Twisted Spoon,,
@@ -2125,6 +2134,7 @@ Team Aqua Grunt #3 (Mt. Pyre),,,,,,
 ,,,,,,
 Team Aqua Grunt #4 (Mt. Pyre),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Muk (m),Jynx (f),Relicanth (m),Sableye (m),Azumarill (m),Swampert (m)
 ,Lv. 50 (Naive),Lv. 50 (Lonely),Lv. 53 (Calm),Lv. 48,Lv. 53 (Jolly),Lv. 53 (Mild)
 ,Scope Lens,Scope Lens,Choice Band,Scope Lens,Scope Lens,Salac Berry
@@ -2147,6 +2157,7 @@ Hex Maniac Valerie (Mt. Pyre),,,,,,
 ,,,,,,
 Team Aqua Grunt #5 (Mt. Pyre),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Lunatone ,Ludicolo (f),Cloyster (f),Electabuzz (m),Clamperl (f),Nidoqueen (f)
 ,Lv. 51 (Calm),Lv. 51 (Naughty),Lv. 53 (Rash),Lv. 51 (Modest),Lv. 55 (Impish),Lv. 52 (Hasty)
 ,Scope Lens,Scope Lens,Scope Lens,King's Rock,Deep Sea Tooth,Bright Powder
@@ -2202,6 +2213,7 @@ Team Aqua Grunt #9 (Mt. Pyre),,,,,,
 ,,,,,,
 Team Aqua Grunt #10 (Mt. Pyre),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Jynx (f),Milotic (m),Cradily (m),Banette (m),Lanturn (m),Blastoise (m)
 ,Lv. 53 (Careful),Lv. 52 (Recover),Lv. 53 (Timid),Lv. 52 (Lax),Lv. 54,Lv. 55 (Sassy)
 ,Bright Powder,Leftovers,Leftovers,Leppa Berry,King's Rock,Leftovers
@@ -2213,6 +2225,7 @@ Team Aqua Grunt #10 (Mt. Pyre),,,,,,
 ,,,,,,
 Aqua Admin Matt (Mt. Pyre),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Wailord (m),Machamp (m),Slaking (m),Exeggutor (m),Gyarados (m),Dragonite (m)
 ,Lv. 57 (Adamant),Lv. 56 (Impish),Lv. 56 (Gentle),Lv. 56 (Timid),Lv. 58 (Mild),Lv. 57
 ,Quick Claw,Chesto Berry,Lum Berry,Quick Claw,Bright Powder,Lum Berry
@@ -2235,6 +2248,7 @@ Team Magma Grunt #1 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #2 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Gengar (m),Camerupt (m),Shiftry (m),Manectric (m),Solrock,
 ,Lv. 56 (Naughty),Lv. 59 ,Lv. 56 (Lonely),Lv. 57 (Gentle),Lv. 58 (Lonely),
 ,Focus Band,Quick Claw,Scope Lens,None,Leftovers,
@@ -2279,6 +2293,7 @@ Team Magma Grunt #5 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #6 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Misdreavus (f),Torkoal (f),Aggron (f),Jumpluff (f),Ampharos (f),Sandslash (f)
 ,Lv. 60 (Lonely),Lv. 60 ,Lv. 61 (Adamant),Lv. 59 (Gentle),Lv. 58 (Bold),Lv. 60 (Mild)
 ,Leftovers,Quick Claw,Focus Band,Leftovers,Bright Powder,Bright Powder
@@ -2290,6 +2305,7 @@ Team Magma Grunt #6 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #7 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Wobbuffet (m),Magmar (m),Shiftry (m),Gligar (m),Golem (m),Exploud (m)
 ,Lv. 58 (Modest),Lv. 61 (Naive),Lv. 60 (Mild),Lv. 62 (Gentle),Lv. 63 (Careful),Lv. 59 (Brave)
 ,Leftovers,Scope Lens,Focus Band,Bright Powder,Quick Claw,Quick Claw
@@ -2345,6 +2361,7 @@ Team Magma Grunt #11 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #12 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Gengar (m),Claydol ,Exeggutor (m),Wobbuffet (m),Exploud (m),Arcanine (m)
 ,Lv. 59 (Naughty),Lv. 58 (Impish),Lv. 59 (Rash),Lv. 61 (Careful),Lv. 62 (Brave),Lv. 62 (Bold)
 ,Leftovers,Choice Band,Bright Powder,Leftovers,Lum Berry,Leftovers
@@ -2356,6 +2373,7 @@ Team Magma Grunt #12 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #13 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Weezing (f),Granbull (f),Jumpluff (f),Espeon (m),Umbreon (m),Flareon (m)
 ,Lv. 62 (Lonely),Lv. 62 (Hasty),Lv. 63 (Naughty),Lv. 61 (Naughty),Lv. 61 (Naughty),Lv. 63 (Brave)
 ,Lum Berry,Leftovers,Leftovers,Lum Berry,Leftovers,Quick Claw
@@ -2367,6 +2385,7 @@ Team Magma Grunt #13 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #14 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Smeargle (m),Sudowoodo (m),Victreebel (m),Manectric (m),Claydol (m),Rapidash (m)
 ,Lv. 63 (Naughty),Lv. 63 (Rash),Lv. 64 (Calm),Lv. 63 (Modest),Lv. 63 (Rash),Lv. 64 (Jolly)
 ,Lum Berry,Quick Claw,Lum Berry,Scope Lens,Leftovers,Lum Berry
@@ -2389,6 +2408,7 @@ Team Magma Grunt #15 (Magma Hideout),,,,,,
 ,,,,,,
 Team Magma Grunt #16 (Magma Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Solrock ,Aggron (m),Weezing (m),Wobbuffet (m),Houndoom (m),
 ,Lv. 63 (Mild),Lv. 64 (Rash),Lv. 63,Lv. 62 (Naughty),Lv. 60 (Sassy),
 ,Lum Berry,Quick Claw,Lum Berry,Leftovers,Lum Berry,
@@ -2510,6 +2530,7 @@ Team Aqua Grunt #8 (Aqua Hideout),,,,,,
 ,,,,,,
 Team Aqua Admin Matt (Aqua Hideout),,,,,,
 ,,,,,,
+,AI_FLAG:,23,,,,
 ,Glalie (m),Kingdra (m),Machamp (m),Tauros (m),Dragonite (m),Wailord (m)
 ,Lv. 66 (Gentle),Lv. 66 (Bold),Lv. 67 (Timid),Lv. 66 (Impish),Lv. 66 (Careful),Lv. 67 (Modest)
 ,Lum Berry,Lum Berry,Quick Claw,Choice Band,Lum Berry,Leftovers
@@ -3027,6 +3048,7 @@ Cooltrainer Olivia (Sootopolis Gym),,,,,,
 ,,,,,,
 Leader Wallace ,,,,,,
 ,,,,,,
+,AI_FLAG:,11,,,,
 ,Kingdra (f),Castform (f),Ludicolo (f),Swampert (m),Lapras (f),Milotic (f)
 ,Lv. 76 (Calm),Lv. 76 (Sassy),Lv. 76,Lv. 77 (Sassy),Lv. 76 ,Lv. 77 (Lonely)
 ,Lum Berry,Lum Berry,Lum Berry,Lum Berry,Lum Berry,Lum Berry
@@ -3436,6 +3458,7 @@ Winstrate Vito (Victory Road),,,,,,
 ,,,,,,
 Elite Four Sidney,,,,,,
 ,,,,,,
+,AI_FLAG:,15,,,,
 ,Sableye (m),Jolteon (m),Tauros (m),Alakazam (m),Machamp (m),Houndoom (m)
 ,Lv. 100 (Naive),Lv. 100 ,Lv. 100 (Hasty),Lv. 100,Lv. 100,Lv. 100 (Mild)
 ,Lum Berry,Lum Berry,Lum Berry,Lum Berry,Chesto Berry,Lum Berry
