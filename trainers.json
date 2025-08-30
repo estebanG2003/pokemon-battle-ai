@@ -12,26 +12,13 @@
           "Leer"
         ]
       }
-    ]
-  },
-  {
-    "name": "Extra EXP",
-    "location": "",
-    "battle_order": 2,
-    "team": [
-      {
-        "species": "Wingull",
-        "level": 4,
-        "moves": [
-          "Tackle"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 5
   },
   {
     "name": "Gatekeeper Calvin",
     "location": "Route 102",
-    "battle_order": 3,
+    "battle_order": 2,
     "team": [
       {
         "species": "Poochyena",
@@ -41,12 +28,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 5
   },
   {
     "name": "Bug Catcher Rick",
     "location": "Route 102",
-    "battle_order": 4,
+    "battle_order": 3,
     "team": [
       {
         "species": "Wurmple",
@@ -64,12 +52,13 @@
           "String Shot"
         ]
       }
-    ]
+    ],
+    "level_cap": 4
   },
   {
     "name": "Youngster Allen",
     "location": "Route 102",
-    "battle_order": 5,
+    "battle_order": 4,
     "team": [
       {
         "species": "Zigzagoon",
@@ -87,12 +76,13 @@
           "Growl"
         ]
       }
-    ]
+    ],
+    "level_cap": 4
   },
   {
     "name": "Lass Tiana",
     "location": "Route 102",
-    "battle_order": 6,
+    "battle_order": 5,
     "team": [
       {
         "species": "Zigzagoon",
@@ -110,12 +100,13 @@
           "Tackle"
         ]
       }
-    ]
+    ],
+    "level_cap": 4
   },
   {
     "name": "Bug Catcher Lyle",
     "location": "Petalburg Woods",
-    "battle_order": 7,
+    "battle_order": 6,
     "team": [
       {
         "species": "Wurmple",
@@ -149,12 +140,13 @@
           "String Shot"
         ]
       }
-    ]
+    ],
+    "level_cap": 3
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Petalburg Woods",
-    "battle_order": 8,
+    "battle_order": 7,
     "team": [
       {
         "species": "Poochyena",
@@ -165,12 +157,13 @@
           "Sand-Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Bug Catcher James",
     "location": "Petalburg Woods",
-    "battle_order": 9,
+    "battle_order": 8,
     "team": [
       {
         "species": "Nincada",
@@ -190,12 +183,13 @@
           "Leech Life"
         ]
       }
-    ]
+    ],
+    "level_cap": 6
   },
   {
     "name": "Rich Boy Winston",
     "location": "Route 104",
-    "battle_order": 10,
+    "battle_order": 9,
     "team": [
       {
         "species": "Zigzagoon",
@@ -206,12 +200,13 @@
           "Tail Whip"
         ]
       }
-    ]
+    ],
+    "level_cap": 7
   },
   {
     "name": "Fisherman Ivan",
     "location": "Route 104",
-    "battle_order": 11,
+    "battle_order": 10,
     "team": [
       {
         "species": "Magikarp",
@@ -234,12 +229,13 @@
           "Splash"
         ]
       }
-    ]
+    ],
+    "level_cap": 7
   },
   {
     "name": "Youngster Josh",
     "location": "Rustboro Gym",
-    "battle_order": 12,
+    "battle_order": 11,
     "team": [
       {
         "species": "Geodude",
@@ -248,10 +244,37 @@
           "Tackle"
         ]
       }
-    ]
+    ],
+    "level_cap": 10
   },
   {
     "name": "Youngster Tommy",
+    "location": "Rustboro Gym",
+    "battle_order": 12,
+    "team": [
+      {
+        "species": "Geodude",
+        "level": 8,
+        "moves": [
+          "Tackle",
+          "Defense Curl",
+          "Mud Sport"
+        ]
+      },
+      {
+        "species": "Geodude",
+        "level": 8,
+        "moves": [
+          "Tackle",
+          "Defense Curl",
+          "Mud Sport"
+        ]
+      }
+    ],
+    "level_cap": 8
+  },
+  {
+    "name": "Hiker Marc",
     "location": "Rustboro Gym",
     "battle_order": 13,
     "team": [
@@ -273,37 +296,13 @@
           "Mud Sport"
         ]
       }
-    ]
-  },
-  {
-    "name": "Hiker Marc",
-    "location": "Rustboro Gym",
-    "battle_order": 14,
-    "team": [
-      {
-        "species": "Geodude",
-        "level": 8,
-        "moves": [
-          "Tackle",
-          "Defense Curl",
-          "Mud Sport"
-        ]
-      },
-      {
-        "species": "Geodude",
-        "level": 8,
-        "moves": [
-          "Tackle",
-          "Defense Curl",
-          "Mud Sport"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "Leader Roxanne",
     "location": "Rustboro Gym",
-    "battle_order": 15,
+    "battle_order": 14,
     "team": [
       {
         "species": "Geodude",
@@ -335,12 +334,13 @@
           "Block"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Twins Gina & Mia [2]",
     "location": "Route 104",
-    "battle_order": 16,
+    "battle_order": 15,
     "team": [
       {
         "species": "Seedot",
@@ -350,12 +350,13 @@
           "Harden"
         ]
       }
-    ]
+    ],
+    "level_cap": 6
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 17,
+    "battle_order": 16,
     "team": [
       {
         "species": "Lotad",
@@ -365,12 +366,13 @@
           "Growl"
         ]
       }
-    ]
+    ],
+    "level_cap": 6
   },
   {
     "name": "Bug Catcher Jose",
     "location": "Route 116",
-    "battle_order": 18,
+    "battle_order": 17,
     "team": [
       {
         "species": "Wurmple",
@@ -389,12 +391,13 @@
           "Leech Life"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "School Kid Karen",
     "location": "Route 116",
-    "battle_order": 19,
+    "battle_order": 18,
     "team": [
       {
         "species": "Shroomish",
@@ -405,12 +408,13 @@
           "Stun Spore"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Hiker Clark",
     "location": "Route 116",
-    "battle_order": 20,
+    "battle_order": 19,
     "team": [
       {
         "species": "Geodude",
@@ -421,12 +425,13 @@
           "Mud Sport"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "Youngster Johnson",
     "location": "Route 116",
-    "battle_order": 21,
+    "battle_order": 20,
     "team": [
       {
         "species": "Shroomish",
@@ -446,12 +451,13 @@
           "Absorb"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "Hiker Devan",
     "location": "Route 116",
-    "battle_order": 22,
+    "battle_order": 21,
     "team": [
       {
         "species": "Geodude",
@@ -471,12 +477,13 @@
           "Mud Sport"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Rusturf Tunnel",
-    "battle_order": 23,
+    "battle_order": 22,
     "team": [
       {
         "species": "Poochyena",
@@ -487,12 +494,13 @@
           "Sand-Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 11
   },
   {
     "name": "Lady Sarah [2]",
     "location": "Route 116",
-    "battle_order": 24,
+    "battle_order": 23,
     "team": [
       {
         "species": "Lotad",
@@ -503,11 +511,29 @@
           "Absorb"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "[2]",
     "location": "",
+    "battle_order": 24,
+    "team": [
+      {
+        "species": "Zigzagoon",
+        "level": 8,
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip"
+        ]
+      }
+    ],
+    "level_cap": 8
+  },
+  {
+    "name": "Rich Boy Dawson [2]",
+    "location": "Route 116",
     "battle_order": 25,
     "team": [
       {
@@ -519,28 +545,13 @@
           "Tail Whip"
         ]
       }
-    ]
-  },
-  {
-    "name": "Rich Boy Dawson [2]",
-    "location": "Route 116",
-    "battle_order": 26,
-    "team": [
-      {
-        "species": "Zigzagoon",
-        "level": 8,
-        "moves": [
-          "Tackle",
-          "Growl",
-          "Tail Whip"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 27,
+    "battle_order": 26,
     "team": [
       {
         "species": "Poochyena",
@@ -550,12 +561,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 8
   },
   {
     "name": "School Kid Jerry [2]",
     "location": "Route 116",
-    "battle_order": 28,
+    "battle_order": 27,
     "team": [
       {
         "species": "Ralts",
@@ -565,12 +577,13 @@
           "Confusion"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Lass Janice [2]",
     "location": "Route 116",
-    "battle_order": 29,
+    "battle_order": 28,
     "team": [
       {
         "species": "Marill",
@@ -581,12 +594,13 @@
           "Tail Whip"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Youngster Joey",
     "location": "Route 116",
-    "battle_order": 30,
+    "battle_order": 29,
     "team": [
       {
         "species": "Machop",
@@ -597,12 +611,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Rustboro Rival",
     "location": "Rustboro City",
-    "battle_order": 31,
+    "battle_order": 30,
     "team": [
       {
         "species": "Wingull",
@@ -624,12 +639,13 @@
           "Quick Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Lass Haley",
     "location": "Route 104",
-    "battle_order": 32,
+    "battle_order": 31,
     "team": [
       {
         "species": "Lotad",
@@ -647,12 +663,13 @@
           "Tackle"
         ]
       }
-    ]
+    ],
+    "level_cap": 6
   },
   {
     "name": "Lass Cindy (Full-Restore)",
     "location": "Route 104",
-    "battle_order": 33,
+    "battle_order": 32,
     "team": [
       {
         "species": "Zigzagoon",
@@ -663,12 +680,13 @@
           "Tail Whip"
         ]
       }
-    ]
+    ],
+    "level_cap": 7
   },
   {
     "name": "Fisherman Darian",
     "location": "Route 104",
-    "battle_order": 34,
+    "battle_order": 33,
     "team": [
       {
         "species": "Magikarp",
@@ -677,12 +695,13 @@
           "Splash"
         ]
       }
-    ]
+    ],
+    "level_cap": 9
   },
   {
     "name": "Youngster Billy",
     "location": "Route 104",
-    "battle_order": 35,
+    "battle_order": 34,
     "team": [
       {
         "species": "Zigzagoon",
@@ -702,12 +721,13 @@
           "Growth"
         ]
       }
-    ]
+    ],
+    "level_cap": 7
   },
   {
     "name": "Fisherman Ned",
     "location": "Route 106",
-    "battle_order": 36,
+    "battle_order": 35,
     "team": [
       {
         "species": "Tentacool",
@@ -717,12 +737,13 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 11
   },
   {
     "name": "Fisherman Elliot",
     "location": "Route 106",
-    "battle_order": 37,
+    "battle_order": 36,
     "team": [
       {
         "species": "Magikarp",
@@ -746,12 +767,13 @@
           "Splash"
         ]
       }
-    ]
+    ],
+    "level_cap": 10
   },
   {
     "name": "Sailor Huey",
     "location": "Route 109",
-    "battle_order": 38,
+    "battle_order": 37,
     "team": [
       {
         "species": "Wingull",
@@ -771,12 +793,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 12
   },
   {
     "name": "Sailor Edmond [2]",
     "location": "Route 109",
-    "battle_order": 39,
+    "battle_order": 38,
     "team": [
       {
         "species": "Wingull",
@@ -788,12 +811,13 @@
           "Wing Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Tuber Hailey [2]",
     "location": "Route 109",
-    "battle_order": 40,
+    "battle_order": 39,
     "team": [
       {
         "species": "Marill",
@@ -805,12 +829,13 @@
           "Water Gun"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Tuber Ricky",
     "location": "Route 109",
-    "battle_order": 41,
+    "battle_order": 40,
     "team": [
       {
         "species": "Zigzagoon",
@@ -822,11 +847,30 @@
           "Surf"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Tuber Lola [2]",
     "location": "Route 109",
+    "battle_order": 41,
+    "team": [
+      {
+        "species": "Azurill",
+        "level": 12,
+        "moves": [
+          "Splash",
+          "Charm",
+          "Tail Whip",
+          "Bubble"
+        ]
+      }
+    ],
+    "level_cap": 12
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 42,
     "team": [
       {
@@ -839,28 +883,29 @@
           "Bubble"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 43,
-    "team": [
-      {
-        "species": "Azurill",
-        "level": 12,
-        "moves": [
-          "Splash",
-          "Charm",
-          "Tail Whip",
-          "Bubble"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 12
   },
   {
     "name": "Tuber Chandler [2]",
     "location": "Route 109",
+    "battle_order": 43,
+    "team": [
+      {
+        "species": "Tentacool",
+        "level": 12,
+        "moves": [
+          "Poison Sting",
+          "Supersonic",
+          "Constrict"
+        ]
+      }
+    ],
+    "level_cap": 12
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 44,
     "team": [
       {
@@ -872,28 +917,13 @@
           "Constrict"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 45,
-    "team": [
-      {
-        "species": "Tentacool",
-        "level": 12,
-        "moves": [
-          "Poison Sting",
-          "Supersonic",
-          "Constrict"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 12
   },
   {
     "name": "Tuber Simon",
     "location": "Route 109",
-    "battle_order": 46,
+    "battle_order": 45,
     "team": [
       {
         "species": "Azurill",
@@ -915,12 +945,13 @@
           "Water Gun"
         ]
       }
-    ]
+    ],
+    "level_cap": 12
   },
   {
     "name": "Beauty Johanna",
     "location": "Route 109",
-    "battle_order": 47,
+    "battle_order": 46,
     "team": [
       {
         "species": "Goldeen",
@@ -932,12 +963,13 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Sailor Dwayne",
     "location": "Route 109",
-    "battle_order": 48,
+    "battle_order": 47,
     "team": [
       {
         "species": "Wingull",
@@ -965,12 +997,13 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 11
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Slateport City",
-    "battle_order": 49,
+    "battle_order": 48,
     "team": [
       {
         "species": "Carvanha",
@@ -982,12 +1015,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Slateport City",
-    "battle_order": 50,
+    "battle_order": 49,
     "team": [
       {
         "species": "Zubat",
@@ -1008,12 +1042,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Pokefan Isabel",
     "location": "Route 110",
-    "battle_order": 51,
+    "battle_order": 50,
     "team": [
       {
         "species": "Plusle",
@@ -1035,12 +1070,13 @@
           "Helping Hand"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Pokefan Kaleb",
     "location": "Route 110",
-    "battle_order": 52,
+    "battle_order": 51,
     "team": [
       {
         "species": "Minun",
@@ -1062,12 +1098,13 @@
           "Helping Hand"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Aroma Lady Daisy",
     "location": "Route 103",
-    "battle_order": 53,
+    "battle_order": 52,
     "team": [
       {
         "species": "Shroomish",
@@ -1089,12 +1126,13 @@
           "Stun Spore"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Twins Amy & Liv [2]",
     "location": "Route 103",
-    "battle_order": 54,
+    "battle_order": 53,
     "team": [
       {
         "species": "Plusle",
@@ -1106,12 +1144,13 @@
           "Helping Hand"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 55,
+    "battle_order": 54,
     "team": [
       {
         "species": "Minun",
@@ -1123,12 +1162,13 @@
           "Helping Hand"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Pokefan Miguel",
     "location": "Route 103",
-    "battle_order": 56,
+    "battle_order": 55,
     "team": [
       {
         "species": "Skitty",
@@ -1140,12 +1180,13 @@
           "DoubleSlap"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Fisherman Andrew",
     "location": "Route 103",
-    "battle_order": 57,
+    "battle_order": 56,
     "team": [
       {
         "species": "Magikarp",
@@ -1170,12 +1211,13 @@
           "Tackle"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Black Belt Rhett [2]",
     "location": "Route 103",
-    "battle_order": 58,
+    "battle_order": 57,
     "team": [
       {
         "species": "Makuhita",
@@ -1187,12 +1229,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Guitarist Marcos [2]",
     "location": "Route 103",
-    "battle_order": 59,
+    "battle_order": 58,
     "team": [
       {
         "species": "Voltorb",
@@ -1204,12 +1247,13 @@
           "Sonicboom"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Lass Sally",
     "location": "Trick House",
-    "battle_order": 60,
+    "battle_order": 59,
     "team": [
       {
         "species": "Oddish",
@@ -1221,12 +1265,13 @@
           "Stun Spore"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Lass Robin",
     "location": "Trick House",
-    "battle_order": 61,
+    "battle_order": 60,
     "team": [
       {
         "species": "Skitty",
@@ -1258,12 +1303,13 @@
           "Water Gun"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Youngster Eddie",
     "location": "Trick House",
-    "battle_order": 62,
+    "battle_order": 61,
     "team": [
       {
         "species": "Zigzagoon",
@@ -1285,12 +1331,13 @@
           "Sand-Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Youngster Timmy",
     "location": "Route 110",
-    "battle_order": 63,
+    "battle_order": 62,
     "team": [
       {
         "species": "Aron",
@@ -1312,12 +1359,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Slateport Rival",
     "location": "Route 110",
-    "battle_order": 64,
+    "battle_order": 63,
     "team": [
       {
         "species": "Slugma",
@@ -1349,12 +1397,13 @@
           "Wing Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Collector Edwin [2]",
     "location": "Route 110",
-    "battle_order": 65,
+    "battle_order": 64,
     "team": [
       {
         "species": "Lombre",
@@ -1366,12 +1415,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 66,
+    "battle_order": 65,
     "team": [
       {
         "species": "Nuzleaf",
@@ -1383,12 +1433,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Guitarist Joseph [2]",
     "location": "Route 110",
-    "battle_order": 67,
+    "battle_order": 66,
     "team": [
       {
         "species": "Electrike",
@@ -1400,12 +1451,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 68,
+    "battle_order": 67,
     "team": [
       {
         "species": "Voltorb",
@@ -1416,12 +1468,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Psychic Edward",
     "location": "Route 110",
-    "battle_order": 69,
+    "battle_order": 68,
     "team": [
       {
         "species": "Abra",
@@ -1430,12 +1483,13 @@
           "Hidden Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Triathlete Alyssa",
     "location": "Route 110",
-    "battle_order": 70,
+    "battle_order": 69,
     "team": [
       {
         "species": "Magnemite",
@@ -1447,12 +1501,13 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Fisherman Dale",
     "location": "Route 110",
-    "battle_order": 71,
+    "battle_order": 70,
     "team": [
       {
         "species": "Tentacool",
@@ -1490,12 +1545,13 @@
           "Rollout"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Aroma Lady Rose",
     "location": "Route 118",
-    "battle_order": 72,
+    "battle_order": 71,
     "team": [
       {
         "species": "Roselia",
@@ -1527,12 +1583,13 @@
           "Leech Seed"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Youngster Deandre",
     "location": "Route 118",
-    "battle_order": 73,
+    "battle_order": 72,
     "team": [
       {
         "species": "Zigzagoon",
@@ -1564,12 +1621,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Fisherman Wade",
     "location": "Route 118",
-    "battle_order": 74,
+    "battle_order": 73,
     "team": [
       {
         "species": "Tentacool",
@@ -1580,12 +1638,13 @@
           "Constrict"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Guitarist Dalton",
     "location": "Route 118",
-    "battle_order": 75,
+    "battle_order": 74,
     "team": [
       {
         "species": "Magnemite",
@@ -1607,12 +1666,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "PKMN Trainer Wally",
     "location": "Mauville City",
-    "battle_order": 76,
+    "battle_order": 75,
     "team": [
       {
         "species": "Ralts",
@@ -1624,12 +1684,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Youngster Ben",
     "location": "Mauville Gym",
-    "battle_order": 77,
+    "battle_order": 76,
     "team": [
       {
         "species": "Zigzagoon",
@@ -1651,12 +1712,13 @@
           "Pound"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Battle Girl Vivian [2]",
     "location": "Mauville Gym",
-    "battle_order": 78,
+    "battle_order": 77,
     "team": [
       {
         "species": "Meditite",
@@ -1668,12 +1730,13 @@
           "Thunderpunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 79,
+    "battle_order": 78,
     "team": [
       {
         "species": "Meditite",
@@ -1685,12 +1748,13 @@
           "Meditate"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Guitarist Kirk [2]",
     "location": "Mauville Gym",
-    "battle_order": 80,
+    "battle_order": 79,
     "team": [
       {
         "species": "Electrike",
@@ -1702,12 +1766,13 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 81,
+    "battle_order": 80,
     "team": [
       {
         "species": "Voltorb",
@@ -1718,12 +1783,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Bug Maniac Angelo [2]",
     "location": "Mauville Gym",
-    "battle_order": 82,
+    "battle_order": 81,
     "team": [
       {
         "species": "Illumise",
@@ -1734,12 +1800,13 @@
           "Charm"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 83,
+    "battle_order": 82,
     "team": [
       {
         "species": "Volbeat",
@@ -1750,12 +1817,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Guitarist Shawn [2]",
     "location": "Mauville Gym",
-    "battle_order": 84,
+    "battle_order": 83,
     "team": [
       {
         "species": "Voltorb",
@@ -1767,12 +1835,13 @@
           "Sonicboom"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 85,
+    "battle_order": 84,
     "team": [
       {
         "species": "Magnemite",
@@ -1784,12 +1853,13 @@
           "Sonicboom"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Leader Wattson",
     "location": "Mauville Gym",
-    "battle_order": 86,
+    "battle_order": 85,
     "team": [
       {
         "species": "Voltorb",
@@ -1831,12 +1901,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Camper Tyron [2]",
     "location": "Route 111",
-    "battle_order": 87,
+    "battle_order": 86,
     "team": [
       {
         "species": "Sandshrew",
@@ -1848,12 +1919,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Aroma Lady Celina [2]",
     "location": "Route 111",
-    "battle_order": 88,
+    "battle_order": 87,
     "team": [
       {
         "species": "Roselia",
@@ -1865,12 +1937,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Picknicker Bianca [2]",
     "location": "Route 111",
-    "battle_order": 89,
+    "battle_order": 88,
     "team": [
       {
         "species": "Shroomish",
@@ -1882,12 +1955,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Kindler Hayden [2]",
     "location": "Route 111",
-    "battle_order": 90,
+    "battle_order": 89,
     "team": [
       {
         "species": "Numel",
@@ -1898,12 +1972,13 @@
           "Ember"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Winstrate Victor",
     "location": "Route 111",
-    "battle_order": 91,
+    "battle_order": 90,
     "team": [
       {
         "species": "Taillow",
@@ -1925,12 +2000,13 @@
           "Sand-Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Winstrate Victoria",
     "location": "Route 111",
-    "battle_order": 92,
+    "battle_order": 91,
     "team": [
       {
         "species": "Roselia",
@@ -1942,12 +2018,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Winstrate Vivi",
     "location": "Route 111",
-    "battle_order": 93,
+    "battle_order": 92,
     "team": [
       {
         "species": "Marill",
@@ -1978,12 +2055,13 @@
           "Ember"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Winstrate Vicky",
     "location": "Route 111",
-    "battle_order": 94,
+    "battle_order": 93,
     "team": [
       {
         "species": "Meditite",
@@ -1995,12 +2073,13 @@
           "Detect"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Interviewer Gabby & Ty [2]",
     "location": "Route 111",
-    "battle_order": 95,
+    "battle_order": 94,
     "team": [
       {
         "species": "Magnemite",
@@ -2012,12 +2091,13 @@
           "Sonicboom"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 96,
+    "battle_order": 95,
     "team": [
       {
         "species": "Whismur",
@@ -2029,12 +2109,13 @@
           "Howl"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Camper Travis",
     "location": "Route 111",
-    "battle_order": 97,
+    "battle_order": 96,
     "team": [
       {
         "species": "Sandshrew",
@@ -2046,12 +2127,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Hiker Trent",
     "location": "Route 112",
-    "battle_order": 98,
+    "battle_order": 97,
     "team": [
       {
         "species": "Geodude",
@@ -2083,12 +2165,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Hiker Brice",
     "location": "Route 112",
-    "battle_order": 99,
+    "battle_order": 98,
     "team": [
       {
         "species": "Numel",
@@ -2109,12 +2192,13 @@
           "Karate Chop"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Kindler Bryant [2]",
     "location": "Route 112",
-    "battle_order": 100,
+    "battle_order": 99,
     "team": [
       {
         "species": "Numel",
@@ -2125,12 +2209,13 @@
           "Ember"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 101,
+    "battle_order": 100,
     "team": [
       {
         "species": "Slugma",
@@ -2142,12 +2227,13 @@
           "Rock Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Aroma Lady Shayla [2]",
     "location": "Route 112",
-    "battle_order": 102,
+    "battle_order": 101,
     "team": [
       {
         "species": "Shroomish",
@@ -2159,12 +2245,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 103,
+    "battle_order": 102,
     "team": [
       {
         "species": "Roselia",
@@ -2176,12 +2263,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Cooltrainer Wilton",
     "location": "Route 111",
-    "battle_order": 104,
+    "battle_order": 103,
     "team": [
       {
         "species": "Electrike",
@@ -2213,12 +2301,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Cooltrainer Brooke",
     "location": "Route 111",
-    "battle_order": 105,
+    "battle_order": 104,
     "team": [
       {
         "species": "Wingull",
@@ -2249,12 +2338,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Black Belt Daisuke",
     "location": "Route 111",
-    "battle_order": 106,
+    "battle_order": 105,
     "team": [
       {
         "species": "Machop",
@@ -2266,12 +2356,13 @@
           "Seismic Toss"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Youngster Jaylen",
     "location": "Route 113",
-    "battle_order": 107,
+    "battle_order": 106,
     "team": [
       {
         "species": "Trapinch",
@@ -2282,12 +2373,13 @@
           "Faint Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Camper Lawrence",
     "location": "Route 113",
-    "battle_order": 108,
+    "battle_order": 107,
     "team": [
       {
         "species": "Baltoy",
@@ -2309,12 +2401,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Ninja Boy Lung [2]",
     "location": "Route 113",
-    "battle_order": 109,
+    "battle_order": 108,
     "team": [
       {
         "species": "Koffing",
@@ -2326,12 +2419,13 @@
           "Selfdestruct"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 110,
+    "battle_order": 109,
     "team": [
       {
         "species": "Ninjask",
@@ -2343,11 +2437,30 @@
           "Fury Swipes"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "PokeManiac Wyatt [2]",
     "location": "Route 113",
+    "battle_order": 110,
+    "team": [
+      {
+        "species": "Aron",
+        "level": 18,
+        "moves": [
+          "Mud-Slap",
+          "Headbutt",
+          "Metal Claw",
+          "Iron Defense"
+        ]
+      }
+    ],
+    "level_cap": 18
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 111,
     "team": [
       {
@@ -2360,29 +2473,13 @@
           "Iron Defense"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 112,
-    "team": [
-      {
-        "species": "Aron",
-        "level": 18,
-        "moves": [
-          "Mud-Slap",
-          "Headbutt",
-          "Metal Claw",
-          "Iron Defense"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Parasol Lady Madeline",
     "location": "Route 113",
-    "battle_order": 113,
+    "battle_order": 112,
     "team": [
       {
         "species": "Numel",
@@ -2394,11 +2491,30 @@
           "Sunny Day"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Twins Tori & Tia [2]",
     "location": "Route 113",
+    "battle_order": 113,
+    "team": [
+      {
+        "species": "Spinda",
+        "level": 19,
+        "moves": [
+          "Tackle",
+          "Uproar",
+          "Faint Attack",
+          "Psybeam"
+        ]
+      }
+    ],
+    "level_cap": 19
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 114,
     "team": [
       {
@@ -2411,29 +2527,13 @@
           "Psybeam"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 115,
-    "team": [
-      {
-        "species": "Spinda",
-        "level": 19,
-        "moves": [
-          "Tackle",
-          "Uproar",
-          "Faint Attack",
-          "Psybeam"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Ninja Boy Lao",
     "location": "Route 113",
-    "battle_order": 116,
+    "battle_order": 115,
     "team": [
       {
         "species": "Koffing",
@@ -2465,12 +2565,13 @@
           "Selfdestruct"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Youngster Dillon",
     "location": "Route 113",
-    "battle_order": 117,
+    "battle_order": 116,
     "team": [
       {
         "species": "Aron",
@@ -2482,12 +2583,13 @@
           "Iron Defense"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Picknicker Sophie [2]",
     "location": "Route 113",
-    "battle_order": 118,
+    "battle_order": 117,
     "team": [
       {
         "species": "Marill",
@@ -2499,12 +2601,13 @@
           "Rollout"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 119,
+    "battle_order": 118,
     "team": [
       {
         "species": "Lombre",
@@ -2516,12 +2619,13 @@
           "Fake Out"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Bird Keeper Coby [2]",
     "location": "Route 113",
-    "battle_order": 120,
+    "battle_order": 119,
     "team": [
       {
         "species": "Skarmory",
@@ -2533,12 +2637,13 @@
           "Agility"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 121,
+    "battle_order": 120,
     "team": [
       {
         "species": "Swellow",
@@ -2550,12 +2655,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Fisherman Nolan",
     "location": "Route 114",
-    "battle_order": 122,
+    "battle_order": 121,
     "team": [
       {
         "species": "Barboach",
@@ -2567,12 +2673,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Picknicker Charlotte [2]",
     "location": "Route 114",
-    "battle_order": 123,
+    "battle_order": 122,
     "team": [
       {
         "species": "Nuzleaf",
@@ -2584,12 +2691,13 @@
           "Fake Out"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Fisherman Kai [2]",
     "location": "Route 114",
-    "battle_order": 124,
+    "battle_order": 123,
     "team": [
       {
         "species": "Barboach",
@@ -2601,12 +2709,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Fisherman Claude",
     "location": "Route 114",
-    "battle_order": 125,
+    "battle_order": 124,
     "team": [
       {
         "species": "Magikarp",
@@ -2636,12 +2745,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Picknicker Nancy",
     "location": "Route 114",
-    "battle_order": 126,
+    "battle_order": 125,
     "team": [
       {
         "species": "Marill",
@@ -2663,12 +2773,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Sr. and Jr. Tyra & Ivy [2]",
     "location": "Route 114",
-    "battle_order": 127,
+    "battle_order": 126,
     "team": [
       {
         "species": "Roselia",
@@ -2680,12 +2791,13 @@
           "Leech Seed"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 128,
+    "battle_order": 127,
     "team": [
       {
         "species": "Graveler",
@@ -2697,12 +2809,13 @@
           "Rock Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Camper Shane",
     "location": "Route 114",
-    "battle_order": 129,
+    "battle_order": 128,
     "team": [
       {
         "species": "Sandshrew",
@@ -2724,12 +2837,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Pokemaniac Steve",
     "location": "Route 114",
-    "battle_order": 130,
+    "battle_order": 129,
     "team": [
       {
         "species": "Aron",
@@ -2741,12 +2855,13 @@
           "Iron Defense"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Kindler Bernie",
     "location": "Route 114",
-    "battle_order": 131,
+    "battle_order": 130,
     "team": [
       {
         "species": "Slugma",
@@ -2768,12 +2883,13 @@
           "Wing Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Hiker Lucas [2]",
     "location": "Route 114",
-    "battle_order": 132,
+    "battle_order": 131,
     "team": [
       {
         "species": "Geodude",
@@ -2785,12 +2901,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 133,
+    "battle_order": 132,
     "team": [
       {
         "species": "Numel",
@@ -2801,12 +2918,13 @@
           "Ember"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Picknicker Angelina [2]",
     "location": "Route 114",
-    "battle_order": 134,
+    "battle_order": 133,
     "team": [
       {
         "species": "Lombre",
@@ -2818,12 +2936,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 135,
+    "battle_order": 134,
     "team": [
       {
         "species": "Marill",
@@ -2835,12 +2954,13 @@
           "Rollout"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Hiker Lenny",
     "location": "Route 114",
-    "battle_order": 136,
+    "battle_order": 135,
     "team": [
       {
         "species": "Geodude",
@@ -2862,12 +2982,13 @@
           "Karate Chop"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Black Belt Nob",
     "location": "Route 115 Main",
-    "battle_order": 137,
+    "battle_order": 136,
     "team": [
       {
         "species": "Machop",
@@ -2879,12 +3000,13 @@
           "Seismic Toss"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Battle Girl Cyndy",
     "location": "Route 115 Main",
-    "battle_order": 138,
+    "battle_order": 137,
     "team": [
       {
         "species": "Meditite",
@@ -2906,12 +3028,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Collector Hector [2]",
     "location": "Route 115 Main",
-    "battle_order": 139,
+    "battle_order": 138,
     "team": [
       {
         "species": "Zangoose",
@@ -2923,12 +3046,13 @@
           "Fury Cutter"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 140,
+    "battle_order": 139,
     "team": [
       {
         "species": "Seviper",
@@ -2940,12 +3064,13 @@
           "Poison Tail"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Psychic Marlene [2]",
     "location": "Route 115 Main",
-    "battle_order": 141,
+    "battle_order": 140,
     "team": [
       {
         "species": "Meditite",
@@ -2957,12 +3082,13 @@
           "Hidden Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 142,
+    "battle_order": 141,
     "team": [
       {
         "species": "Spoink",
@@ -2974,12 +3100,13 @@
           "Psybeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Hiker Mike",
     "location": "Rusturf Tunnel",
-    "battle_order": 143,
+    "battle_order": 142,
     "team": [
       {
         "species": "Geodude",
@@ -3011,12 +3138,13 @@
           "Karate Chop"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Pok\u00e9mon  Breeder Lydia",
     "location": "Route 117",
-    "battle_order": 144,
+    "battle_order": 143,
     "team": [
       {
         "species": "Wingull",
@@ -3076,12 +3204,13 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 11
   },
   {
     "name": "Bug Maniac Derek",
     "location": "Route 117",
-    "battle_order": 145,
+    "battle_order": 144,
     "team": [
       {
         "species": "Dustox",
@@ -3099,12 +3228,13 @@
           "Gust"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Psychic Brandi",
     "location": "Route 117",
-    "battle_order": 146,
+    "battle_order": 145,
     "team": [
       {
         "species": "Ralts",
@@ -3116,12 +3246,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Triathlete Melina [2]",
     "location": "Route 117",
-    "battle_order": 147,
+    "battle_order": 146,
     "team": [
       {
         "species": "Doduo",
@@ -3133,12 +3264,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Battle Girl Aisha [2]",
     "location": "Route 117",
-    "battle_order": 148,
+    "battle_order": 147,
     "team": [
       {
         "species": "Meditite",
@@ -3150,12 +3282,13 @@
           "Detect"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Triathlete Maria",
     "location": "Route 117",
-    "battle_order": 149,
+    "battle_order": 148,
     "team": [
       {
         "species": "Doduo",
@@ -3167,12 +3300,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Pok\u00e9mon  Breeder Isaac",
     "location": "Route 117",
-    "battle_order": 150,
+    "battle_order": 149,
     "team": [
       {
         "species": "Whismur",
@@ -3232,12 +3366,13 @@
           "Arm Thrust"
         ]
       }
-    ]
+    ],
+    "level_cap": 11
   },
   {
     "name": "Triathlete Dylan",
     "location": "Route 117",
-    "battle_order": 151,
+    "battle_order": 150,
     "team": [
       {
         "species": "Doduo",
@@ -3249,12 +3384,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Sr. & Jr. Anna & Meg [2]",
     "location": "Route 117",
-    "battle_order": 152,
+    "battle_order": 151,
     "team": [
       {
         "species": "Zigzagoon",
@@ -3266,12 +3402,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 153,
+    "battle_order": 152,
     "team": [
       {
         "species": "Makuhita",
@@ -3282,12 +3419,13 @@
           "Arm Thrust"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Team Magma Grunt",
     "location": "Mt. Chimney",
-    "battle_order": 154,
+    "battle_order": 153,
     "team": [
       {
         "species": "Numel",
@@ -3299,12 +3437,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Team Magma Grunt",
     "location": "Mt. Chimney",
-    "battle_order": 155,
+    "battle_order": 154,
     "team": [
       {
         "species": "Zubat",
@@ -3316,12 +3455,13 @@
           "Bite"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Magma Admin Tabitha",
     "location": "Mt. Chimney",
-    "battle_order": 156,
+    "battle_order": 155,
     "team": [
       {
         "species": "Numel",
@@ -3362,12 +3502,13 @@
           "Growl"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Magma Leader Maxie",
     "location": "Mt. Chimney",
-    "battle_order": 157,
+    "battle_order": 156,
     "team": [
       {
         "species": "Mightyena",
@@ -3399,12 +3540,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Hiker Eric",
     "location": "Jagged Pass",
-    "battle_order": 158,
+    "battle_order": 157,
     "team": [
       {
         "species": "Geodude",
@@ -3426,12 +3568,13 @@
           "Selfdestruct"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Team Magma Straggler",
     "location": "Jagged Pass",
-    "battle_order": 159,
+    "battle_order": 158,
     "team": [
       {
         "species": "Poochyena",
@@ -3453,12 +3596,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Picknicker Diana",
     "location": "Jagged Pass",
-    "battle_order": 160,
+    "battle_order": 159,
     "team": [
       {
         "species": "Shroomish",
@@ -3490,12 +3634,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Picknicker Autumn [2]",
     "location": "Jagged Pass",
-    "battle_order": 161,
+    "battle_order": 160,
     "team": [
       {
         "species": "Shroomish",
@@ -3507,12 +3652,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Triathlete Julio [2]",
     "location": "Jagged Pass",
-    "battle_order": 162,
+    "battle_order": 161,
     "team": [
       {
         "species": "Magnemite",
@@ -3524,12 +3670,13 @@
           "Thunder Wave"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Camper Ethan",
     "location": "Jagged Pass",
-    "battle_order": 163,
+    "battle_order": 162,
     "team": [
       {
         "species": "Zigzagoon",
@@ -3551,12 +3698,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 20
   },
   {
     "name": "Kindler Jeff",
     "location": "Lavaridge Gym",
-    "battle_order": 164,
+    "battle_order": 163,
     "team": [
       {
         "species": "Slugma",
@@ -3578,12 +3726,13 @@
           "Harden"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Kindler Jace",
     "location": "Lavaridge Gym",
-    "battle_order": 165,
+    "battle_order": 164,
     "team": [
       {
         "species": "Slugma",
@@ -3595,10 +3744,29 @@
           "Harden"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Hiker Eli",
+    "location": "Lavaridge Gym",
+    "battle_order": 165,
+    "team": [
+      {
+        "species": "Numel",
+        "level": 23,
+        "moves": [
+          "Growl",
+          "Tackle",
+          "Ember",
+          "Magnitude"
+        ]
+      }
+    ],
+    "level_cap": 23
+  },
+  {
+    "name": "Kindler Cole",
     "location": "Lavaridge Gym",
     "battle_order": 166,
     "team": [
@@ -3612,29 +3780,13 @@
           "Magnitude"
         ]
       }
-    ]
-  },
-  {
-    "name": "Kindler Cole",
-    "location": "Lavaridge Gym",
-    "battle_order": 167,
-    "team": [
-      {
-        "species": "Numel",
-        "level": 23,
-        "moves": [
-          "Growl",
-          "Tackle",
-          "Ember",
-          "Magnitude"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Cooltrainer Gerald",
     "location": "Lavaridge Gym",
-    "battle_order": 168,
+    "battle_order": 167,
     "team": [
       {
         "species": "Kecleon",
@@ -3646,12 +3798,13 @@
           "Bind"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Kindler Axle",
     "location": "Lavaridge Gym",
-    "battle_order": 169,
+    "battle_order": 168,
     "team": [
       {
         "species": "Numel",
@@ -3663,12 +3816,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Kindler Keegan",
     "location": "Lavaridge Gym",
-    "battle_order": 170,
+    "battle_order": 169,
     "team": [
       {
         "species": "Slugma",
@@ -3680,12 +3834,13 @@
           "Harden"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Battle Girl Danielle",
     "location": "Lavaridge Gym",
-    "battle_order": 171,
+    "battle_order": 170,
     "team": [
       {
         "species": "Meditite",
@@ -3697,12 +3852,13 @@
           "Fire Punch"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Leader Flannery",
     "location": "Lavaridge Gym",
-    "battle_order": 172,
+    "battle_order": 171,
     "team": [
       {
         "species": "Numel",
@@ -3744,12 +3900,13 @@
           "Sunny Day"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Picknicker Carol",
     "location": "Route 112",
-    "battle_order": 173,
+    "battle_order": 172,
     "team": [
       {
         "species": "Taillow",
@@ -3771,12 +3928,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Camper Larry",
     "location": "Route 112",
-    "battle_order": 174,
+    "battle_order": 173,
     "team": [
       {
         "species": "Nuzleaf",
@@ -3788,12 +3946,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 18
   },
   {
     "name": "Camper Beau",
     "location": "Route 111 Desert",
-    "battle_order": 175,
+    "battle_order": 174,
     "team": [
       {
         "species": "Baltoy",
@@ -3825,12 +3984,13 @@
           "Rock Tomb"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Picknicker Heidi",
     "location": "Route 111 Desert",
-    "battle_order": 176,
+    "battle_order": 175,
     "team": [
       {
         "species": "Sandshrew",
@@ -3852,12 +4012,13 @@
           "Rock Tomb"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Camper Drew",
     "location": "Route 111 Desert",
-    "battle_order": 177,
+    "battle_order": 176,
     "team": [
       {
         "species": "Sandshrew",
@@ -3869,12 +4030,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Picknicker Becky",
     "location": "Route 111 Desert",
-    "battle_order": 178,
+    "battle_order": 177,
     "team": [
       {
         "species": "Sandshrew",
@@ -3896,12 +4058,13 @@
           "Defense Curl"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Ruin Maniac Bryan [2]",
     "location": "Route 111 Desert",
-    "battle_order": 179,
+    "battle_order": 178,
     "team": [
       {
         "species": "Sandshrew",
@@ -3913,12 +4076,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 180,
+    "battle_order": 179,
     "team": [
       {
         "species": "Sandslash",
@@ -3930,12 +4094,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Camper Branden [2]",
     "location": "Route 111 Desert",
-    "battle_order": 181,
+    "battle_order": 180,
     "team": [
       {
         "species": "Taillow",
@@ -3947,12 +4112,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 182,
+    "battle_order": 181,
     "team": [
       {
         "species": "Nuzleaf",
@@ -3964,12 +4130,13 @@
           "Fake Out"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Picknicker Celia",
     "location": "Route 111 Desert",
-    "battle_order": 183,
+    "battle_order": 182,
     "team": [
       {
         "species": "Marill",
@@ -3991,12 +4158,13 @@
           "Fake Out"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Ruin Maniac Dusty",
     "location": "Route 111 Desert",
-    "battle_order": 184,
+    "battle_order": 183,
     "team": [
       {
         "species": "Sandslash",
@@ -4008,12 +4176,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Picknicker Irene",
     "location": "Route 111",
-    "battle_order": 185,
+    "battle_order": 184,
     "team": [
       {
         "species": "Shroomish",
@@ -4035,12 +4204,13 @@
           "Rollout"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Psychic Jaclyn",
     "location": "Route 110",
-    "battle_order": 186,
+    "battle_order": 185,
     "team": [
       {
         "species": "Abra",
@@ -4049,59 +4219,62 @@
           "Hidden Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Triathlete Abigail",
+    "location": "Route 110",
+    "battle_order": 186,
+    "team": [
+      {
+        "species": "Magnemite",
+        "level": 16,
+        "moves": [
+          "Tackle",
+          "Thundershock",
+          "Supersonic",
+          "Sonicboom"
+        ]
+      }
+    ],
+    "level_cap": 16
+  },
+  {
+    "name": "Triathlete Anthony",
     "location": "Route 110",
     "battle_order": 187,
     "team": [
       {
         "species": "Magnemite",
-        "level": 16,
+        "level": 14,
         "moves": [
+          "Metal Sound",
           "Tackle",
           "Thundershock",
-          "Supersonic",
-          "Sonicboom"
+          "Supersonic"
+        ]
+      },
+      {
+        "species": "Magnemite",
+        "level": 14,
+        "moves": [
+          "Metal Sound",
+          "Tackle",
+          "Thundershock",
+          "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
-    "name": "Triathlete Anthony",
+    "name": "Traithlete Benjamin",
     "location": "Route 110",
     "battle_order": 188,
     "team": [
       {
         "species": "Magnemite",
-        "level": 14,
-        "moves": [
-          "Metal Sound",
-          "Tackle",
-          "Thundershock",
-          "Supersonic"
-        ]
-      },
-      {
-        "species": "Magnemite",
-        "level": 14,
-        "moves": [
-          "Metal Sound",
-          "Tackle",
-          "Thundershock",
-          "Supersonic"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Traithlete Benjamin",
-    "location": "Route 110",
-    "battle_order": 189,
-    "team": [
-      {
-        "species": "Magnemite",
         "level": 16,
         "moves": [
           "Tackle",
@@ -4110,12 +4283,13 @@
           "Sonicboom"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "Triathlete Jasmine",
     "location": "Route 110",
-    "battle_order": 190,
+    "battle_order": 189,
     "team": [
       {
         "species": "Magnemite",
@@ -4145,12 +4319,13 @@
           "Tackle"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Triathlete Jacob",
     "location": "Route 110",
-    "battle_order": 191,
+    "battle_order": 190,
     "team": [
       {
         "species": "Voltorb",
@@ -4178,10 +4353,29 @@
           "Supersonic"
         ]
       }
-    ]
+    ],
+    "level_cap": 14
   },
   {
     "name": "Battle Girl Laura",
+    "location": "Dewford Gym",
+    "battle_order": 191,
+    "team": [
+      {
+        "species": "Meditite",
+        "level": 13,
+        "moves": [
+          "Bide",
+          "Meditate",
+          "Confusion",
+          "Detect"
+        ]
+      }
+    ],
+    "level_cap": 13
+  },
+  {
+    "name": "Battle Girl Lilith [2]",
     "location": "Dewford Gym",
     "battle_order": 192,
     "team": [
@@ -4195,27 +4389,29 @@
           "Detect"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
-    "name": "Battle Girl Lilith [2]",
+    "name": "Sailor Brenden [2]",
     "location": "Dewford Gym",
     "battle_order": 193,
     "team": [
       {
-        "species": "Meditite",
+        "species": "Machop",
         "level": 13,
         "moves": [
-          "Bide",
-          "Meditate",
-          "Confusion",
-          "Detect"
+          "Low Kick",
+          "Leer",
+          "Focus Energy",
+          "Karate Chop"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
-    "name": "Sailor Brenden [2]",
+    "name": "Black Belt Takao",
     "location": "Dewford Gym",
     "battle_order": 194,
     "team": [
@@ -4229,29 +4425,13 @@
           "Karate Chop"
         ]
       }
-    ]
-  },
-  {
-    "name": "Black Belt Takao",
-    "location": "Dewford Gym",
-    "battle_order": 195,
-    "team": [
-      {
-        "species": "Machop",
-        "level": 13,
-        "moves": [
-          "Low Kick",
-          "Leer",
-          "Focus Energy",
-          "Karate Chop"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Black Belt Cristian",
     "location": "Dewford Gym",
-    "battle_order": 196,
+    "battle_order": 195,
     "team": [
       {
         "species": "Makuhita",
@@ -4263,12 +4443,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Battle Girl Jocelyn",
     "location": "Dewford Gym",
-    "battle_order": 197,
+    "battle_order": 196,
     "team": [
       {
         "species": "Meditite",
@@ -4280,12 +4461,13 @@
           "Detect"
         ]
       }
-    ]
+    ],
+    "level_cap": 13
   },
   {
     "name": "Leader Brawly",
     "location": "Dewford Gym",
-    "battle_order": 198,
+    "battle_order": 197,
     "team": [
       {
         "species": "Machop",
@@ -4317,12 +4499,13 @@
           "Bulk Up"
         ]
       }
-    ]
+    ],
+    "level_cap": 19
   },
   {
     "name": "Cooltrainer Mary",
     "location": "Petalburg Gym",
-    "battle_order": 199,
+    "battle_order": 198,
     "team": [
       {
         "species": "Delcatty",
@@ -4332,12 +4515,13 @@
           "Shock Wave"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer George",
     "location": "Petalburg Gym",
-    "battle_order": 200,
+    "battle_order": 199,
     "team": [
       {
         "species": "Slakoth",
@@ -4348,12 +4532,13 @@
           "Slack Off"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer Randall",
     "location": "Petalburg Gym",
-    "battle_order": 201,
+    "battle_order": 200,
     "team": [
       {
         "species": "Swellow",
@@ -4364,12 +4549,13 @@
           "Wing Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer Parker",
     "location": "Petalburg Gym",
-    "battle_order": 202,
+    "battle_order": 201,
     "team": [
       {
         "species": "Spinda",
@@ -4380,12 +4566,13 @@
           "Focus Punch"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer Jody",
     "location": "Petalburg Gym",
-    "battle_order": 203,
+    "battle_order": 202,
     "team": [
       {
         "species": "Zangoose",
@@ -4395,12 +4582,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer Alexia",
     "location": "Petalburg Gym",
-    "battle_order": 204,
+    "battle_order": 203,
     "team": [
       {
         "species": "Wigglytuff",
@@ -4411,12 +4599,13 @@
           "Shadow Ball"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Cooltrainer Berke",
     "location": "Petalburg Gym",
-    "battle_order": 205,
+    "battle_order": 204,
     "team": [
       {
         "species": "Vigoroth",
@@ -4426,12 +4615,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Leader Norman",
     "location": "Petalburg Gym",
-    "battle_order": 206,
+    "battle_order": 205,
     "team": [
       {
         "species": "Spinda",
@@ -4473,12 +4663,13 @@
           "Yawn"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Swimmer Imani",
     "location": "Route 105",
-    "battle_order": 207,
+    "battle_order": 206,
     "team": [
       {
         "species": "Marill",
@@ -4490,12 +4681,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Domimik",
     "location": "Route 105",
-    "battle_order": 208,
+    "battle_order": 207,
     "team": [
       {
         "species": "Tentacool",
@@ -4507,12 +4699,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Ruin Maniac Foster",
     "location": "Route 105",
-    "battle_order": 209,
+    "battle_order": 208,
     "team": [
       {
         "species": "Sandshrew",
@@ -4534,12 +4727,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Swimmer Beverly",
     "location": "Route 105",
-    "battle_order": 210,
+    "battle_order": 209,
     "team": [
       {
         "species": "Wingull",
@@ -4561,11 +4755,30 @@
           "Astonish"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Ruin Maniac Andres [2]",
     "location": "Route 105",
+    "battle_order": 210,
+    "team": [
+      {
+        "species": "Sandshrew",
+        "level": 25,
+        "moves": [
+          "Defense Curl",
+          "Sand-Attack",
+          "Poison Sting",
+          "Slash"
+        ]
+      }
+    ],
+    "level_cap": 25
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 211,
     "team": [
       {
@@ -4578,29 +4791,13 @@
           "Slash"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 212,
-    "team": [
-      {
-        "species": "Sandshrew",
-        "level": 25,
-        "moves": [
-          "Defense Curl",
-          "Sand-Attack",
-          "Poison Sting",
-          "Slash"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bird Keeper Josue [2]",
     "location": "Route 105",
-    "battle_order": 213,
+    "battle_order": 212,
     "team": [
       {
         "species": "Taillow",
@@ -4612,12 +4809,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 214,
+    "battle_order": 213,
     "team": [
       {
         "species": "Wingull",
@@ -4629,12 +4827,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Swimmer Luis",
     "location": "Route 105",
-    "battle_order": 215,
+    "battle_order": 214,
     "team": [
       {
         "species": "Carvanha",
@@ -4646,12 +4845,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Douglas",
     "location": "Route 106",
-    "battle_order": 216,
+    "battle_order": 215,
     "team": [
       {
         "species": "Tentacool",
@@ -4673,12 +4873,13 @@
           "Acid"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Swimmer Kyla",
     "location": "Route 106",
-    "battle_order": 217,
+    "battle_order": 216,
     "team": [
       {
         "species": "Wailmer",
@@ -4690,12 +4891,13 @@
           "Astonish"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Denise",
     "location": "Route 107",
-    "battle_order": 218,
+    "battle_order": 217,
     "team": [
       {
         "species": "Wingull",
@@ -4717,12 +4919,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Swimmer Tony",
     "location": "Route 107",
-    "battle_order": 219,
+    "battle_order": 218,
     "team": [
       {
         "species": "Carvanha",
@@ -4734,12 +4937,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Sis & Bro Lisa & Ray [2]",
     "location": "Route 107",
-    "battle_order": 220,
+    "battle_order": 219,
     "team": [
       {
         "species": "Goldeen",
@@ -4751,12 +4955,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 221,
+    "battle_order": 220,
     "team": [
       {
         "species": "Tentacool",
@@ -4768,12 +4973,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Swimmer Darrin",
     "location": "Route 107",
-    "battle_order": 222,
+    "battle_order": 221,
     "team": [
       {
         "species": "Tentacool",
@@ -4805,12 +5011,13 @@
           "Acid"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Swimmer Beth [2]",
     "location": "Route 107",
-    "battle_order": 223,
+    "battle_order": 222,
     "team": [
       {
         "species": "Goldeen",
@@ -4822,12 +5029,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Triathlete Camron [2]",
     "location": "Route 107",
-    "battle_order": 224,
+    "battle_order": 223,
     "team": [
       {
         "species": "Staryu",
@@ -4839,12 +5047,13 @@
           "Swift"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Missy",
     "location": "Route 108",
-    "battle_order": 225,
+    "battle_order": 224,
     "team": [
       {
         "species": "Goldeen",
@@ -4856,12 +5065,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Matthew",
     "location": "Route 108",
-    "battle_order": 226,
+    "battle_order": 225,
     "team": [
       {
         "species": "Carvanha",
@@ -4873,12 +5083,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Beauty Thalia [2]",
     "location": "Abandonded Ship",
-    "battle_order": 227,
+    "battle_order": 226,
     "team": [
       {
         "species": "Wailmer",
@@ -4890,12 +5101,13 @@
           "Astonish"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 228,
+    "battle_order": 227,
     "team": [
       {
         "species": "Horsea",
@@ -4907,12 +5119,13 @@
           "Water Gun"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Youngster Demetrius [2]",
     "location": "Abandonded Ship",
-    "battle_order": 229,
+    "battle_order": 228,
     "team": [
       {
         "species": "Zigzagoon",
@@ -4924,12 +5137,13 @@
           "Pin Missile"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 230,
+    "battle_order": 229,
     "team": [
       {
         "species": "Electrike",
@@ -4941,12 +5155,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Sailor Duncan",
     "location": "Abandonded Ship",
-    "battle_order": 231,
+    "battle_order": 230,
     "team": [
       {
         "species": "Spheal",
@@ -4968,12 +5183,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Tuber Charlie",
     "location": "Abandonded Ship",
-    "battle_order": 232,
+    "battle_order": 231,
     "team": [
       {
         "species": "Marill",
@@ -4985,12 +5201,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Ruin Maniac Garrison [2]",
     "location": "Abandonded Ship",
-    "battle_order": 233,
+    "battle_order": 232,
     "team": [
       {
         "species": "Sandslash",
@@ -5002,12 +5219,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Tuber Jani [2]",
     "location": "Abandonded Ship",
-    "battle_order": 234,
+    "battle_order": 233,
     "team": [
       {
         "species": "Marill",
@@ -5019,12 +5237,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Youg Couple Kira & Dan [2]",
     "location": "Abandonded Ship",
-    "battle_order": 235,
+    "battle_order": 234,
     "team": [
       {
         "species": "Volbeat",
@@ -5036,12 +5255,13 @@
           "Signal Beam"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 236,
+    "battle_order": 235,
     "team": [
       {
         "species": "Illumise",
@@ -5053,12 +5273,13 @@
           "Encore"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Swimmer Tara",
     "location": "Route 108",
-    "battle_order": 237,
+    "battle_order": 236,
     "team": [
       {
         "species": "Horsea",
@@ -5080,12 +5301,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Cooltrainer Carolina [2]",
     "location": "Route 108",
-    "battle_order": 238,
+    "battle_order": 237,
     "team": [
       {
         "species": "Manectric",
@@ -5097,12 +5319,13 @@
           "Spark"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 239,
+    "battle_order": 238,
     "team": [
       {
         "species": "Swellow",
@@ -5114,12 +5337,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 240,
+    "battle_order": 239,
     "team": [
       {
         "species": "Manectric",
@@ -5131,12 +5355,13 @@
           "Spark"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Sailor Cory [2]",
     "location": "Route 108",
-    "battle_order": 241,
+    "battle_order": 240,
     "team": [
       {
         "species": "Wingull",
@@ -5148,12 +5373,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 242,
+    "battle_order": 241,
     "team": [
       {
         "species": "Machop",
@@ -5165,12 +5391,13 @@
           "Foresight"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 243,
+    "battle_order": 242,
     "team": [
       {
         "species": "Tentacool",
@@ -5182,12 +5409,13 @@
           "Acid"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Swimmer Jerome",
     "location": "Route 108",
-    "battle_order": 244,
+    "battle_order": 243,
     "team": [
       {
         "species": "Tentacruel",
@@ -5199,12 +5427,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Fisherman Carter [2]",
     "location": "Route 109 Surf",
-    "battle_order": 245,
+    "battle_order": 244,
     "team": [
       {
         "species": "Wailmer",
@@ -5216,12 +5445,13 @@
           "Astonish"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 246,
+    "battle_order": 245,
     "team": [
       {
         "species": "Tentacruel",
@@ -5233,11 +5463,30 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bird Keeper Elijah [2]",
     "location": "Route 109 Surf",
+    "battle_order": 246,
+    "team": [
+      {
+        "species": "Skarmory",
+        "level": 25,
+        "moves": [
+          "Peck",
+          "Sand-Attack",
+          "Swift",
+          "Agility"
+        ]
+      }
+    ],
+    "level_cap": 25
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 247,
     "team": [
       {
@@ -5250,27 +5499,29 @@
           "Agility"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 248,
-    "team": [
-      {
-        "species": "Skarmory",
-        "level": 25,
-        "moves": [
-          "Peck",
-          "Sand-Attack",
-          "Swift",
-          "Agility"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Tuber Austina",
+    "location": "Route 109 Surf",
+    "battle_order": 248,
+    "team": [
+      {
+        "species": "Marill",
+        "level": 26,
+        "moves": [
+          "Tail Whip",
+          "Water Gun",
+          "Rollout",
+          "Bubblebeam"
+        ]
+      }
+    ],
+    "level_cap": 26
+  },
+  {
+    "name": "Tuber Gwen",
     "location": "Route 109 Surf",
     "battle_order": 249,
     "team": [
@@ -5284,29 +5535,13 @@
           "Bubblebeam"
         ]
       }
-    ]
-  },
-  {
-    "name": "Tuber Gwen",
-    "location": "Route 109 Surf",
-    "battle_order": 250,
-    "team": [
-      {
-        "species": "Marill",
-        "level": 26,
-        "moves": [
-          "Tail Whip",
-          "Water Gun",
-          "Rollout",
-          "Bubblebeam"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Swimmer Alice",
     "location": "Route 109 Surf",
-    "battle_order": 251,
+    "battle_order": 250,
     "team": [
       {
         "species": "Goldeen",
@@ -5338,12 +5573,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Swimmer David",
     "location": "Route 109 Surf",
-    "battle_order": 252,
+    "battle_order": 251,
     "team": [
       {
         "species": "Tentacool",
@@ -5365,12 +5601,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Young Couple Mel & Paul [2]",
     "location": "Route 109 Surf",
-    "battle_order": 253,
+    "battle_order": 252,
     "team": [
       {
         "species": "Dustox",
@@ -5382,12 +5619,13 @@
           "Protect"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 254,
+    "battle_order": 253,
     "team": [
       {
         "species": "Beautifly",
@@ -5399,12 +5637,13 @@
           "Stun Spore"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Swimmer Isabelle [2]",
     "location": "Route 103 Surfing",
-    "battle_order": 255,
+    "battle_order": 254,
     "team": [
       {
         "species": "Marill",
@@ -5416,12 +5655,13 @@
           "Rollout"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Swimmer Pete [2]",
     "location": "Route 103 Surfing",
-    "battle_order": 256,
+    "battle_order": 255,
     "team": [
       {
         "species": "Tentacool",
@@ -5432,12 +5672,13 @@
           "Constrict"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "Fisherman Barny",
     "location": "Route 118",
-    "battle_order": 257,
+    "battle_order": 256,
     "team": [
       {
         "species": "Tentacool",
@@ -5459,12 +5700,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bird Keeper Chester",
     "location": "Route 118",
-    "battle_order": 258,
+    "battle_order": 257,
     "team": [
       {
         "species": "Taillow",
@@ -5486,12 +5728,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bird Keeper Perry",
     "location": "Route 118",
-    "battle_order": 259,
+    "battle_order": 258,
     "team": [
       {
         "species": "Wingull",
@@ -5503,12 +5746,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Bug Catcher Kent",
     "location": "Route 119",
-    "battle_order": 260,
+    "battle_order": 259,
     "team": [
       {
         "species": "Ninjask",
@@ -5520,12 +5764,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bug Maniac Donald",
     "location": "Route 119",
-    "battle_order": 261,
+    "battle_order": 260,
     "team": [
       {
         "species": "Wurmple",
@@ -5553,12 +5798,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Bug Catcher Greg",
     "location": "Route 119",
-    "battle_order": 262,
+    "battle_order": 261,
     "team": [
       {
         "species": "Volbeat",
@@ -5580,12 +5826,13 @@
           "Encore"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bug Maniac Taylor",
     "location": "Route 119",
-    "battle_order": 263,
+    "battle_order": 262,
     "team": [
       {
         "species": "Wurmple",
@@ -5613,12 +5860,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Bug Catcher Doug",
     "location": "Route 119",
-    "battle_order": 264,
+    "battle_order": 263,
     "team": [
       {
         "species": "Nincada",
@@ -5640,12 +5888,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Bug Maniac Brent",
     "location": "Route 119",
-    "battle_order": 265,
+    "battle_order": 264,
     "team": [
       {
         "species": "Surskit",
@@ -5657,12 +5906,13 @@
           "Bubblebeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Fisherman Chris",
     "location": "Route 119",
-    "battle_order": 266,
+    "battle_order": 265,
     "team": [
       {
         "species": "Magikarp",
@@ -5700,12 +5950,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Pok\u00e9mon  Ranger Catherine",
     "location": "Route 119",
-    "battle_order": 267,
+    "battle_order": 266,
     "team": [
       {
         "species": "Gloom",
@@ -5727,12 +5978,13 @@
           "Magical Leaf"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Pok\u00e9mon  Ranger Jackson",
     "location": "Route 119",
-    "battle_order": 268,
+    "battle_order": 267,
     "team": [
       {
         "species": "Breloom",
@@ -5744,12 +5996,13 @@
           "Mach Punch"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Parasol Lady Rachel [2]",
     "location": "Route 119",
-    "battle_order": 269,
+    "battle_order": 268,
     "team": [
       {
         "species": "Goldeen",
@@ -5761,12 +6014,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Bird Keeper Phil [2]",
     "location": "Route 119",
-    "battle_order": 270,
+    "battle_order": 269,
     "team": [
       {
         "species": "Swellow",
@@ -5778,12 +6032,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Ninja Boy Takashi [2]",
     "location": "Route 119",
-    "battle_order": 271,
+    "battle_order": 270,
     "team": [
       {
         "species": "Ninjask",
@@ -5795,12 +6050,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 272,
+    "battle_order": 271,
     "team": [
       {
         "species": "Koffing",
@@ -5812,12 +6068,13 @@
           "Smokescreen"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Kindler Dayton [2]",
     "location": "Route 119",
-    "battle_order": 273,
+    "battle_order": 272,
     "team": [
       {
         "species": "Slugma",
@@ -5829,12 +6086,13 @@
           "Harden"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 274,
+    "battle_order": 273,
     "team": [
       {
         "species": "Numel",
@@ -5846,12 +6104,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Bird Keeper Hugh",
     "location": "Route 119",
-    "battle_order": 275,
+    "battle_order": 274,
     "team": [
       {
         "species": "Wingull",
@@ -5873,12 +6132,13 @@
           "Sweet Scent"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Weather Institute",
-    "battle_order": 276,
+    "battle_order": 275,
     "team": [
       {
         "species": "Carvanha",
@@ -5890,12 +6150,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Weather Institute",
-    "battle_order": 277,
+    "battle_order": 276,
     "team": [
       {
         "species": "Zubat",
@@ -5917,12 +6178,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Weather Institute",
-    "battle_order": 278,
+    "battle_order": 277,
     "team": [
       {
         "species": "Poochyena",
@@ -5934,12 +6196,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 279,
+    "battle_order": 278,
     "team": [
       {
         "species": "Carvanha",
@@ -5951,12 +6214,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Weather Institute",
-    "battle_order": 280,
+    "battle_order": 279,
     "team": [
       {
         "species": "Zubat",
@@ -5968,12 +6232,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 281,
+    "battle_order": 280,
     "team": [
       {
         "species": "Poochyena",
@@ -5985,12 +6250,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Weather Institute",
-    "battle_order": 282,
+    "battle_order": 281,
     "team": [
       {
         "species": "Poochyena",
@@ -6022,12 +6288,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Aqua Admin Shelly",
     "location": "Weather Institute",
-    "battle_order": 283,
+    "battle_order": 282,
     "team": [
       {
         "species": "Carvanha",
@@ -6049,12 +6316,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Fortree Rival",
     "location": "Route 119",
-    "battle_order": 284,
+    "battle_order": 283,
     "team": [
       {
         "species": "Slugma",
@@ -6086,12 +6354,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Guitarist Fabian [2]",
     "location": "Route 119",
-    "battle_order": 285,
+    "battle_order": 284,
     "team": [
       {
         "species": "Manectric",
@@ -6103,12 +6372,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Ninja Boy Yasu [2]",
     "location": "Route 119",
-    "battle_order": 286,
+    "battle_order": 285,
     "team": [
       {
         "species": "Ninjask",
@@ -6120,12 +6390,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Ninja Boy Hideo",
     "location": "Route 119",
-    "battle_order": 287,
+    "battle_order": 286,
     "team": [
       {
         "species": "Koffing",
@@ -6147,12 +6418,13 @@
           "Smokescreen"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Parasol Lady Clarissa",
     "location": "Route 120",
-    "battle_order": 288,
+    "battle_order": 287,
     "team": [
       {
         "species": "Roselia",
@@ -6174,12 +6446,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Bird Keeper Robert",
     "location": "Route 120",
-    "battle_order": 289,
+    "battle_order": 288,
     "team": [
       {
         "species": "Swablu",
@@ -6191,12 +6464,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Bird Keeper Humberto",
     "location": "Fortree Gym",
-    "battle_order": 290,
+    "battle_order": 289,
     "team": [
       {
         "species": "Skarmory",
@@ -6208,12 +6482,13 @@
           "Air Cutter"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Bird Keeper Jared [2]",
     "location": "Fortree Gym",
-    "battle_order": 291,
+    "battle_order": 290,
     "team": [
       {
         "species": "Doduo",
@@ -6225,12 +6500,13 @@
           "Rage"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 292,
+    "battle_order": 291,
     "team": [
       {
         "species": "Skarmory",
@@ -6242,12 +6518,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 293,
+    "battle_order": 292,
     "team": [
       {
         "species": "Tropius",
@@ -6259,11 +6536,30 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Picknicker Ashley [2]",
     "location": "Fortree Gym",
+    "battle_order": 293,
+    "team": [
+      {
+        "species": "Swablu",
+        "level": 27,
+        "moves": [
+          "Astonish",
+          "Sing",
+          "Fury Attack",
+          "Safeguard"
+        ]
+      }
+    ],
+    "level_cap": 27
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 294,
     "team": [
       {
@@ -6276,7 +6572,8 @@
           "Safeguard"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "[2]",
@@ -6293,29 +6590,13 @@
           "Safeguard"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 296,
-    "team": [
-      {
-        "species": "Swablu",
-        "level": 27,
-        "moves": [
-          "Astonish",
-          "Sing",
-          "Fury Attack",
-          "Safeguard"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Camper Flint [2]",
     "location": "Fortree Gym",
-    "battle_order": 297,
+    "battle_order": 296,
     "team": [
       {
         "species": "Swellow",
@@ -6327,12 +6608,13 @@
           "Double Team"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 298,
+    "battle_order": 297,
     "team": [
       {
         "species": "Xatu",
@@ -6344,12 +6626,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Bird Keeper Edwardo [2]",
     "location": "Fortree Gym",
-    "battle_order": 299,
+    "battle_order": 298,
     "team": [
       {
         "species": "Doduo",
@@ -6361,12 +6644,13 @@
           "Pursuit"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 300,
+    "battle_order": 299,
     "team": [
       {
         "species": "Pelipper",
@@ -6378,12 +6662,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Bird Keeper Darius",
     "location": "Fortree Gym",
-    "battle_order": 301,
+    "battle_order": 300,
     "team": [
       {
         "species": "Tropius",
@@ -6395,12 +6680,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Leader Winona",
     "location": "Fortree Gym",
-    "battle_order": 302,
+    "battle_order": 301,
     "team": [
       {
         "species": "Swablu",
@@ -6452,12 +6738,13 @@
           "Dragon Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Bird Keeper Colin",
     "location": "Route 120",
-    "battle_order": 303,
+    "battle_order": 302,
     "team": [
       {
         "species": "Wingull",
@@ -6479,12 +6766,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Cooltrainer Leonel [2]",
     "location": "Route 120",
-    "battle_order": 304,
+    "battle_order": 303,
     "team": [
       {
         "species": "Manectric",
@@ -6495,12 +6783,13 @@
           "Thunder Wave"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Parasol Lady Angelica [2]",
     "location": "Route 120",
-    "battle_order": 305,
+    "battle_order": 304,
     "team": [
       {
         "species": "Castform",
@@ -6512,12 +6801,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Ninja Boy Riley [2]",
     "location": "Route 120",
-    "battle_order": 306,
+    "battle_order": 305,
     "team": [
       {
         "species": "Nincada",
@@ -6529,12 +6819,13 @@
           "Dig"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 307,
+    "battle_order": 306,
     "team": [
       {
         "species": "Koffing",
@@ -6546,12 +6837,13 @@
           "Smokescreen"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Battle Girl Callie [2]",
     "location": "Route 120",
-    "battle_order": 308,
+    "battle_order": 307,
     "team": [
       {
         "species": "Meditite",
@@ -6563,12 +6855,13 @@
           "Calm Mind"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 309,
+    "battle_order": 308,
     "team": [
       {
         "species": "Makuhita",
@@ -6580,12 +6873,13 @@
           "Knock Off"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Cooltrainer Jennifer",
     "location": "Route 120",
-    "battle_order": 310,
+    "battle_order": 309,
     "team": [
       {
         "species": "Sableye",
@@ -6597,12 +6891,13 @@
           "Faint Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Pok\u00e9mon  Ranger Jenna",
     "location": "Route 120",
-    "battle_order": 311,
+    "battle_order": 310,
     "team": [
       {
         "species": "Lotad",
@@ -6634,12 +6929,13 @@
           "Torment"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Pok\u00e9mon  Ranger Lorenzo",
     "location": "Route 120",
-    "battle_order": 312,
+    "battle_order": 311,
     "team": [
       {
         "species": "Seedot",
@@ -6671,12 +6967,13 @@
           "Fury Swipes"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Bug Maniac Jeffrey",
     "location": "Route 120",
-    "battle_order": 313,
+    "battle_order": 312,
     "team": [
       {
         "species": "Surskit",
@@ -6708,12 +7005,13 @@
           "BubbleBeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Ninja Boy Keigo",
     "location": "Route 120",
-    "battle_order": 314,
+    "battle_order": 313,
     "team": [
       {
         "species": "Koffing",
@@ -6735,12 +7033,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Ruin Maniac Chip",
     "location": "Route 120",
-    "battle_order": 315,
+    "battle_order": 314,
     "team": [
       {
         "species": "Baltoy",
@@ -6772,12 +7071,13 @@
           "Poison Sting"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Bug Maniac Cale [2]",
     "location": "Route 121",
-    "battle_order": 316,
+    "battle_order": 315,
     "team": [
       {
         "species": "Dustox",
@@ -6789,12 +7089,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 317,
+    "battle_order": 316,
     "team": [
       {
         "species": "Beautifly",
@@ -6806,12 +7107,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Hex Maniac Tammy [2]",
     "location": "Route 121",
-    "battle_order": 318,
+    "battle_order": 317,
     "team": [
       {
         "species": "Duskull",
@@ -6823,12 +7125,13 @@
           "Pursuit"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 319,
+    "battle_order": 318,
     "team": [
       {
         "species": "Shuppet",
@@ -6840,12 +7143,13 @@
           "Spite"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Beauty Jessica",
     "location": "Route 121",
-    "battle_order": 320,
+    "battle_order": 319,
     "team": [
       {
         "species": "Kecleon",
@@ -6867,12 +7171,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Sr. and Jr. Kate & Joy [2]",
     "location": "Route 121",
-    "battle_order": 321,
+    "battle_order": 320,
     "team": [
       {
         "species": "Spinda",
@@ -6884,12 +7189,13 @@
           "Teeter Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 322,
+    "battle_order": 321,
     "team": [
       {
         "species": "Slaking",
@@ -6901,12 +7207,13 @@
           "Faint Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Pok\u00e9mon  Breeder Pat [2]",
     "location": "Route 121",
-    "battle_order": 323,
+    "battle_order": 322,
     "team": [
       {
         "species": "Poochyena",
@@ -6918,12 +7225,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 324,
+    "battle_order": 323,
     "team": [
       {
         "species": "Shroomish",
@@ -6935,12 +7243,13 @@
           "Headbutt"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 325,
+    "battle_order": 324,
     "team": [
       {
         "species": "Electrike",
@@ -6952,12 +7261,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Pok\u00e9mon  Breeder Myles [2]",
     "location": "Route 121",
-    "battle_order": 326,
+    "battle_order": 325,
     "team": [
       {
         "species": "Makuhita",
@@ -6969,12 +7279,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 327,
+    "battle_order": 326,
     "team": [
       {
         "species": "Wingull",
@@ -6986,12 +7297,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 328,
+    "battle_order": 327,
     "team": [
       {
         "species": "Tropius",
@@ -7003,12 +7315,13 @@
           "Sweet Scent"
         ]
       }
-    ]
+    ],
+    "level_cap": 25
   },
   {
     "name": "Gentlman Walter",
     "location": "Route 121",
-    "battle_order": 329,
+    "battle_order": 328,
     "team": [
       {
         "species": "Manectric",
@@ -7020,12 +7333,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Pokefan Vanessa",
     "location": "Route 121",
-    "battle_order": 330,
+    "battle_order": 329,
     "team": [
       {
         "species": "Pikachu",
@@ -7037,12 +7351,13 @@
           "Thunderbolt"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Cooltrainer Marcel [2]",
     "location": "Route 121",
-    "battle_order": 331,
+    "battle_order": 330,
     "team": [
       {
         "species": "Manectric",
@@ -7054,12 +7369,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 332,
+    "battle_order": 331,
     "team": [
       {
         "species": "Shiftry",
@@ -7071,12 +7387,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Cooltrainer Cristin [2]",
     "location": "Route 121",
-    "battle_order": 333,
+    "battle_order": 332,
     "team": [
       {
         "species": "Loudred",
@@ -7088,12 +7405,13 @@
           "Stomp"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 334,
+    "battle_order": 333,
     "team": [
       {
         "species": "Vigoroth",
@@ -7105,12 +7423,13 @@
           "Endure"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "PokeManiac Mark",
     "location": "Mt.Pyre",
-    "battle_order": 335,
+    "battle_order": 334,
     "team": [
       {
         "species": "Rhyhorn",
@@ -7122,12 +7441,13 @@
           "Rock Blast"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Hex Maniac Leah [2]",
     "location": "Mt.Pyre",
-    "battle_order": 336,
+    "battle_order": 335,
     "team": [
       {
         "species": "Spoink",
@@ -7139,12 +7459,13 @@
           "Magic Coat"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Black Belt Zander [2]",
     "location": "Mt.Pyre",
-    "battle_order": 337,
+    "battle_order": 336,
     "team": [
       {
         "species": "Hariyama",
@@ -7156,12 +7477,13 @@
           "Knock Off"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Young Couple Dez & Luke [2]",
     "location": "Mt.Pyre",
-    "battle_order": 338,
+    "battle_order": 337,
     "team": [
       {
         "species": "Delcatty",
@@ -7173,12 +7495,13 @@
           "Doubleslap"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 339,
+    "battle_order": 338,
     "team": [
       {
         "species": "Manectric",
@@ -7190,12 +7513,13 @@
           "Roar"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Psychic Kayla [2]",
     "location": "Mt.Pyre",
-    "battle_order": 340,
+    "battle_order": 339,
     "team": [
       {
         "species": "Wobbuffet",
@@ -7207,12 +7531,13 @@
           "Destiny Bond"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 341,
+    "battle_order": 340,
     "team": [
       {
         "species": "Natu",
@@ -7224,12 +7549,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 342,
+    "battle_order": 341,
     "team": [
       {
         "species": "Kadabra",
@@ -7241,12 +7567,13 @@
           "Recover"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Pok\u00e9mon Breeder Gabrielle [2]",
     "location": "Mt.Pyre",
-    "battle_order": 343,
+    "battle_order": 342,
     "team": [
       {
         "species": "Skitty",
@@ -7258,12 +7585,13 @@
           "Charm"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 344,
+    "battle_order": 343,
     "team": [
       {
         "species": "Poochyena",
@@ -7275,12 +7603,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 345,
+    "battle_order": 344,
     "team": [
       {
         "species": "Zigzagoon",
@@ -7292,12 +7621,13 @@
           "Pin Missile"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Psychic William",
     "location": "Mt.Pyre",
-    "battle_order": 346,
+    "battle_order": 345,
     "team": [
       {
         "species": "Ralts",
@@ -7329,12 +7659,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Hex Maniac Tasha",
     "location": "Mt.Pyre",
-    "battle_order": 347,
+    "battle_order": 346,
     "team": [
       {
         "species": "Shuppet",
@@ -7346,12 +7677,13 @@
           "Will-O-Wisp"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Black Belt Atsushi",
     "location": "Mt.Pyre",
-    "battle_order": 348,
+    "battle_order": 347,
     "team": [
       {
         "species": "Hariyama",
@@ -7363,12 +7695,13 @@
           "Knock Off"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Hex Maniac Valerie [2]",
     "location": "Mt.Pyre",
-    "battle_order": 349,
+    "battle_order": 348,
     "team": [
       {
         "species": "Sableye",
@@ -7380,12 +7713,13 @@
           "Faint Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Psychic Cedric [2]",
     "location": "Mt.Pyre",
-    "battle_order": 350,
+    "battle_order": 349,
     "team": [
       {
         "species": "Wobbuffet",
@@ -7397,12 +7731,13 @@
           "Counter"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Mt.Pyre",
-    "battle_order": 351,
+    "battle_order": 350,
     "team": [
       {
         "species": "Carvanha",
@@ -7414,12 +7749,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Mt.Pyre",
-    "battle_order": 352,
+    "battle_order": 351,
     "team": [
       {
         "species": "Zubat",
@@ -7431,12 +7767,13 @@
           "Air Cutter"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Mt.Pyre",
-    "battle_order": 353,
+    "battle_order": 352,
     "team": [
       {
         "species": "Poochyena",
@@ -7448,12 +7785,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 354,
+    "battle_order": 353,
     "team": [
       {
         "species": "Carvanha",
@@ -7465,12 +7803,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Mt.Pyre",
-    "battle_order": 355,
+    "battle_order": 354,
     "team": [
       {
         "species": "Wailmer",
@@ -7482,12 +7821,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 356,
+    "battle_order": 355,
     "team": [
       {
         "species": "Zubat",
@@ -7499,12 +7839,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Psychic Cameron",
     "location": "Route 123",
-    "battle_order": 357,
+    "battle_order": 356,
     "team": [
       {
         "species": "Solrock",
@@ -7516,12 +7857,13 @@
           "Cosmic Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Ninja Boy Jonas [2]",
     "location": "Route 123",
-    "battle_order": 358,
+    "battle_order": 357,
     "team": [
       {
         "species": "Koffing",
@@ -7533,12 +7875,13 @@
           "Sludge Bomb"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Parasol Lady Kayley [2]",
     "location": "Route 123",
-    "battle_order": 359,
+    "battle_order": 358,
     "team": [
       {
         "species": "Castform",
@@ -7550,12 +7893,13 @@
           "Solarbeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Hex Maniac Kindra [2]",
     "location": "Route 123",
-    "battle_order": 360,
+    "battle_order": 359,
     "team": [
       {
         "species": "Duskull",
@@ -7567,12 +7911,13 @@
           "Pursuit"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 361,
+    "battle_order": 360,
     "team": [
       {
         "species": "Shuppet",
@@ -7584,12 +7929,13 @@
           "Spite"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Collector Ed [2]",
     "location": "Route 123",
-    "battle_order": 362,
+    "battle_order": 361,
     "team": [
       {
         "species": "Zangoose",
@@ -7601,12 +7947,13 @@
           "Pursuit"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 363,
+    "battle_order": 362,
     "team": [
       {
         "species": "Seviper",
@@ -7618,12 +7965,13 @@
           "Crunch"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Cooltrainer Wendy",
     "location": "Route 123",
-    "battle_order": 364,
+    "battle_order": 363,
     "team": [
       {
         "species": "Mawile",
@@ -7655,12 +8003,13 @@
           "Protect"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Cooltrainer Braxton",
     "location": "Route 123",
-    "battle_order": 365,
+    "battle_order": 364,
     "team": [
       {
         "species": "Swellow",
@@ -7712,12 +8061,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Guitarist Fernando [2]",
     "location": "Route 123",
-    "battle_order": 366,
+    "battle_order": 365,
     "team": [
       {
         "species": "Electrike",
@@ -7729,12 +8079,13 @@
           "Roar"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 367,
+    "battle_order": 366,
     "team": [
       {
         "species": "Loudred",
@@ -7746,12 +8097,13 @@
           "Stomp"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Bird Keeper Alberto [2]",
     "location": "Route 123",
-    "battle_order": 368,
+    "battle_order": 367,
     "team": [
       {
         "species": "Pelipper",
@@ -7763,12 +8115,13 @@
           "Protect"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 369,
+    "battle_order": 368,
     "team": [
       {
         "species": "Xatu",
@@ -7780,12 +8133,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Psychic Jacki [2]",
     "location": "Route 123",
-    "battle_order": 370,
+    "battle_order": 369,
     "team": [
       {
         "species": "Kadabra",
@@ -7797,12 +8151,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 371,
+    "battle_order": 370,
     "team": [
       {
         "species": "Lunatone",
@@ -7814,12 +8169,13 @@
           "Psywave"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Expert Fredrick [2]",
     "location": "Route 123",
-    "battle_order": 372,
+    "battle_order": 371,
     "team": [
       {
         "species": "Makuhita",
@@ -7831,12 +8187,13 @@
           "Knock Off"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 373,
+    "battle_order": 372,
     "team": [
       {
         "species": "Machoke",
@@ -7848,12 +8205,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Twins Miu&Yuki [2]",
     "location": "Route 123",
-    "battle_order": 374,
+    "battle_order": 373,
     "team": [
       {
         "species": "Beautifly",
@@ -7865,12 +8223,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 375,
+    "battle_order": 374,
     "team": [
       {
         "species": "Dustox",
@@ -7882,12 +8241,13 @@
           "Psybeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Aroma Lady Violet",
     "location": "Route 123",
-    "battle_order": 376,
+    "battle_order": 375,
     "team": [
       {
         "species": "Roselia",
@@ -7909,12 +8269,13 @@
           "Acid"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Bug Catcher Davis [2]",
     "location": "Route 123",
-    "battle_order": 377,
+    "battle_order": 376,
     "team": [
       {
         "species": "Pinsir",
@@ -7926,12 +8287,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Cooltrainer Jazmyn [2]",
     "location": "Route 123",
-    "battle_order": 378,
+    "battle_order": 377,
     "team": [
       {
         "species": "Absol",
@@ -7943,12 +8305,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Beauty Shirley",
     "location": "Mt. Chimney",
-    "battle_order": 379,
+    "battle_order": 378,
     "team": [
       {
         "species": "Numel",
@@ -7960,12 +8323,13 @@
           "Magnitude"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Beauty Sheila",
     "location": "Mt. Chimney",
-    "battle_order": 380,
+    "battle_order": 379,
     "team": [
       {
         "species": "Shroomish",
@@ -7977,12 +8341,13 @@
           "Mega Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Expert Shelby",
     "location": "Mt. Chimney",
-    "battle_order": 381,
+    "battle_order": 380,
     "team": [
       {
         "species": "Meditite",
@@ -8004,12 +8369,13 @@
           "Fake Out"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Hiker Sawyer [2]",
     "location": "Mt. Chimney",
-    "battle_order": 382,
+    "battle_order": 381,
     "team": [
       {
         "species": "Geodude",
@@ -8021,12 +8387,13 @@
           "Selfdestruct"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Beauty Melissa [2]",
     "location": "Mt. Chimney",
-    "battle_order": 383,
+    "battle_order": 382,
     "team": [
       {
         "species": "Marill",
@@ -8038,12 +8405,13 @@
           "BubbleBeam"
         ]
       }
-    ]
+    ],
+    "level_cap": 21
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 384,
+    "battle_order": 383,
     "team": [
       {
         "species": "Poochyena",
@@ -8055,12 +8423,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 385,
+    "battle_order": 384,
     "team": [
       {
         "species": "Numel",
@@ -8072,12 +8441,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 386,
+    "battle_order": 385,
     "team": [
       {
         "species": "Mightyena",
@@ -8089,12 +8459,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 387,
+    "battle_order": 386,
     "team": [
       {
         "species": "Baltoy",
@@ -8116,12 +8487,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 388,
+    "battle_order": 387,
     "team": [
       {
         "species": "Baltoy",
@@ -8143,12 +8515,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Team Magma Grunt [2]",
     "location": "Magma Hideout",
-    "battle_order": 389,
+    "battle_order": 388,
     "team": [
       {
         "species": "Numel",
@@ -8160,12 +8533,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt [2]",
     "location": "Magma Hideout",
-    "battle_order": 390,
+    "battle_order": 389,
     "team": [
       {
         "species": "Mightyena",
@@ -8177,12 +8551,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 391,
+    "battle_order": 390,
     "team": [
       {
         "species": "Zubat",
@@ -8194,12 +8569,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
-    "battle_order": 392,
+    "battle_order": 391,
     "team": [
       {
         "species": "Poochyena",
@@ -8211,7 +8587,26 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
+  },
+  {
+    "name": "Team Magma Grunt",
+    "location": "Magma Hideout",
+    "battle_order": 392,
+    "team": [
+      {
+        "species": "Zubat",
+        "level": 29,
+        "moves": [
+          "Astonish",
+          "Bite",
+          "Wing Attack",
+          "Confuse Ray"
+        ]
+      }
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
@@ -8228,29 +8623,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
     "location": "Magma Hideout",
     "battle_order": 394,
-    "team": [
-      {
-        "species": "Zubat",
-        "level": 29,
-        "moves": [
-          "Astonish",
-          "Bite",
-          "Wing Attack",
-          "Confuse Ray"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Team Magma Grunt",
-    "location": "Magma Hideout",
-    "battle_order": 395,
     "team": [
       {
         "species": "Mightyena",
@@ -8262,7 +8641,26 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
+  },
+  {
+    "name": "Team Magma Grunt",
+    "location": "Magma Hideout",
+    "battle_order": 395,
+    "team": [
+      {
+        "species": "Baltoy",
+        "level": 29,
+        "moves": [
+          "Psybeam",
+          "Rock Tomb",
+          "Selfdestruct",
+          "AncientPower"
+        ]
+      }
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt",
@@ -8279,29 +8677,13 @@
           "AncientPower"
         ]
       }
-    ]
-  },
-  {
-    "name": "Team Magma Grunt",
-    "location": "Magma Hideout",
-    "battle_order": 397,
-    "team": [
-      {
-        "species": "Baltoy",
-        "level": 29,
-        "moves": [
-          "Psybeam",
-          "Rock Tomb",
-          "Selfdestruct",
-          "AncientPower"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt [2]",
     "location": "Magma Hideout",
-    "battle_order": 398,
+    "battle_order": 397,
     "team": [
       {
         "species": "Numel",
@@ -8313,12 +8695,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Team Magma Grunt [2]",
     "location": "Magma Hideout",
-    "battle_order": 399,
+    "battle_order": 398,
     "team": [
       {
         "species": "Zubat",
@@ -8330,12 +8713,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 29
   },
   {
     "name": "Magma Admin Tabitha",
     "location": "Magma Hideout",
-    "battle_order": 400,
+    "battle_order": 399,
     "team": [
       {
         "species": "Numel",
@@ -8377,12 +8761,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Magma Leader Maxie",
     "location": "Magma Hideout",
-    "battle_order": 401,
+    "battle_order": 400,
     "team": [
       {
         "species": "Mightyena",
@@ -8414,12 +8799,13 @@
           "Amnesia"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Lilycove Rival",
     "location": "Lilycove City",
-    "battle_order": 402,
+    "battle_order": 401,
     "team": [
       {
         "species": "Tropius",
@@ -8461,12 +8847,13 @@
           "Protect"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Aqua Hideout",
-    "battle_order": 403,
+    "battle_order": 402,
     "team": [
       {
         "species": "Poochyena",
@@ -8478,12 +8865,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Aqua Hideout",
-    "battle_order": 404,
+    "battle_order": 403,
     "team": [
       {
         "species": "Carvanha",
@@ -8495,12 +8883,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Aqua Hideout",
-    "battle_order": 405,
+    "battle_order": 404,
     "team": [
       {
         "species": "Zubat",
@@ -8512,12 +8901,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 406,
+    "battle_order": 405,
     "team": [
       {
         "species": "Carvanha",
@@ -8529,12 +8919,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Aqua Hideout",
-    "battle_order": 407,
+    "battle_order": 406,
     "team": [
       {
         "species": "Poochyena",
@@ -8546,12 +8937,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 408,
+    "battle_order": 407,
     "team": [
       {
         "species": "Zubat",
@@ -8563,12 +8955,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Aqua Hideout",
-    "battle_order": 409,
+    "battle_order": 408,
     "team": [
       {
         "species": "Carvanha",
@@ -8580,12 +8973,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Aqua Hideout",
-    "battle_order": 410,
+    "battle_order": 409,
     "team": [
       {
         "species": "Zubat",
@@ -8597,12 +8991,13 @@
           "Air Cutter"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Aqua Hideout",
-    "battle_order": 411,
+    "battle_order": 410,
     "team": [
       {
         "species": "Zubat",
@@ -8614,12 +9009,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Aqua Hideout",
-    "battle_order": 412,
+    "battle_order": 411,
     "team": [
       {
         "species": "Carvanha",
@@ -8631,12 +9027,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Aqua Admin Matt",
     "location": "Aqua Hideout",
-    "battle_order": 413,
+    "battle_order": 412,
     "team": [
       {
         "species": "Mightyena",
@@ -8658,12 +9055,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Grace [2]",
     "location": "Route 124",
-    "battle_order": 414,
+    "battle_order": 413,
     "team": [
       {
         "species": "Marill",
@@ -8675,12 +9073,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Declan [2]",
     "location": "Route 124",
-    "battle_order": 415,
+    "battle_order": 414,
     "team": [
       {
         "species": "Gyarados",
@@ -8692,12 +9091,13 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Spencer",
     "location": "Route 124",
-    "battle_order": 416,
+    "battle_order": 415,
     "team": [
       {
         "species": "Tentacool",
@@ -8719,12 +9119,13 @@
           "Quick Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Sis and Bro Lila & Roy [2]",
     "location": "Route 124",
-    "battle_order": 417,
+    "battle_order": 416,
     "team": [
       {
         "species": "Chinchou",
@@ -8736,12 +9137,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 418,
+    "battle_order": 417,
     "team": [
       {
         "species": "Carvanha",
@@ -8753,12 +9155,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Jenny",
     "location": "Route 124",
-    "battle_order": 419,
+    "battle_order": 418,
     "team": [
       {
         "species": "Wailmer",
@@ -8770,12 +9173,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Chad",
     "location": "Route 124",
-    "battle_order": 420,
+    "battle_order": 419,
     "team": [
       {
         "species": "Tentacool",
@@ -8797,12 +9201,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Triathlete Isabella [2]",
     "location": "Route 124",
-    "battle_order": 421,
+    "battle_order": 420,
     "team": [
       {
         "species": "Staryu",
@@ -8814,12 +9219,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Roland [2]",
     "location": "Route 124",
-    "battle_order": 422,
+    "battle_order": 421,
     "team": [
       {
         "species": "Carvanha",
@@ -8831,12 +9237,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Sailor Ernest",
     "location": "Route 125",
-    "battle_order": 423,
+    "battle_order": 422,
     "team": [
       {
         "species": "Wingull",
@@ -8858,12 +9265,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Nolen",
     "location": "Route 125",
-    "battle_order": 424,
+    "battle_order": 423,
     "team": [
       {
         "species": "Tentacruel",
@@ -8875,12 +9283,13 @@
           "Wrap"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Sr. and Jr. Kim & Iris [2]",
     "location": "Route 125",
-    "battle_order": 425,
+    "battle_order": 424,
     "team": [
       {
         "species": "Swablu",
@@ -8892,12 +9301,13 @@
           "Aerial Ace"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 426,
+    "battle_order": 425,
     "team": [
       {
         "species": "Numel",
@@ -8909,12 +9319,13 @@
           "Earthquake"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Swimmer Tanya",
     "location": "Route 125",
-    "battle_order": 427,
+    "battle_order": 426,
     "team": [
       {
         "species": "Luvdisc",
@@ -8926,12 +9337,13 @@
           "Attract"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Stan",
     "location": "Route 125",
-    "battle_order": 428,
+    "battle_order": 427,
     "team": [
       {
         "species": "Horsea",
@@ -8943,12 +9355,13 @@
           "Twister"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Bird Keeper Presley [2]",
     "location": "Route 125",
-    "battle_order": 429,
+    "battle_order": 428,
     "team": [
       {
         "species": "Tropius",
@@ -8960,12 +9373,13 @@
           "Magical Leaf"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 430,
+    "battle_order": 429,
     "team": [
       {
         "species": "Xatu",
@@ -8977,12 +9391,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Expert Auron [2]",
     "location": "Route 125",
-    "battle_order": 431,
+    "battle_order": 430,
     "team": [
       {
         "species": "Manectric",
@@ -8994,12 +9409,13 @@
           "Roar"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 432,
+    "battle_order": 431,
     "team": [
       {
         "species": "Machamp",
@@ -9011,12 +9427,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Sharon",
     "location": "Route 125",
-    "battle_order": 433,
+    "battle_order": 432,
     "team": [
       {
         "species": "Seaking",
@@ -9028,12 +9445,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Psychic Preston [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 434,
+    "battle_order": 433,
     "team": [
       {
         "species": "Kirlia",
@@ -9045,12 +9463,13 @@
           "Imprison"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Maura [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 435,
+    "battle_order": 434,
     "team": [
       {
         "species": "Kadabra",
@@ -9062,12 +9481,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Samantha [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 436,
+    "battle_order": 435,
     "team": [
       {
         "species": "Xatu",
@@ -9079,12 +9499,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Blake [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 437,
+    "battle_order": 436,
     "team": [
       {
         "species": "Girafarig",
@@ -9096,12 +9517,13 @@
           "Agility"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Hex Maniac Kathleen [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 438,
+    "battle_order": 437,
     "team": [
       {
         "species": "Kadabra",
@@ -9113,12 +9535,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Nicholas [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 439,
+    "battle_order": 438,
     "team": [
       {
         "species": "Wobbuffet",
@@ -9130,12 +9553,13 @@
           "Destiny Bond"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Macey [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 440,
+    "battle_order": 439,
     "team": [
       {
         "species": "Natu",
@@ -9147,12 +9571,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Gentleman Clifford [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 441,
+    "battle_order": 440,
     "team": [
       {
         "species": "Girafarig",
@@ -9164,12 +9589,13 @@
           "Agility"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Gentleman Nate [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 442,
+    "battle_order": 441,
     "team": [
       {
         "species": "Spoink",
@@ -9181,12 +9607,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Virgil [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 443,
+    "battle_order": 442,
     "team": [
       {
         "species": "Ralts",
@@ -9198,12 +9625,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Hex Maniac Sylvia [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 444,
+    "battle_order": 443,
     "team": [
       {
         "species": "Meditite",
@@ -9215,12 +9643,13 @@
           "Hi Jump Kick"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Hannah [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 445,
+    "battle_order": 444,
     "team": [
       {
         "species": "Kirlia",
@@ -9232,12 +9661,13 @@
           "Imprison"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Leader Tate&Liza [2]",
     "location": "Mossdeep Gym",
-    "battle_order": 446,
+    "battle_order": 445,
     "team": [
       {
         "species": "Claydol",
@@ -9249,12 +9679,13 @@
           "Light Screen"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 447,
+    "battle_order": 446,
     "team": [
       {
         "species": "Xatu",
@@ -9266,12 +9697,13 @@
           "Calm Mind"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 448,
+    "battle_order": 447,
     "team": [
       {
         "species": "Lunatone",
@@ -9283,12 +9715,13 @@
           "Light Screen"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 449,
+    "battle_order": 448,
     "team": [
       {
         "species": "Solrock",
@@ -9300,12 +9733,13 @@
           "Sunny Day"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 450,
+    "battle_order": 449,
     "team": [
       {
         "species": "Zubat",
@@ -9327,12 +9761,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 451,
+    "battle_order": 450,
     "team": [
       {
         "species": "Numel",
@@ -9344,12 +9779,13 @@
           "Amnesia"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 452,
+    "battle_order": 451,
     "team": [
       {
         "species": "Baltoy",
@@ -9361,12 +9797,13 @@
           "Sandstorm"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 453,
+    "battle_order": 452,
     "team": [
       {
         "species": "Mightyena",
@@ -9398,12 +9835,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 30
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 454,
+    "battle_order": 453,
     "team": [
       {
         "species": "Zubat",
@@ -9415,12 +9853,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 455,
+    "battle_order": 454,
     "team": [
       {
         "species": "Mightyena",
@@ -9432,12 +9871,13 @@
           "Odor Sleuth"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Team Magma Grunt",
     "location": "Space Center",
-    "battle_order": 456,
+    "battle_order": 455,
     "team": [
       {
         "species": "Baltoy",
@@ -9449,12 +9889,13 @@
           "Sandstorm"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Magma Admin Tabitha [2]",
     "location": "Space Center",
-    "battle_order": 457,
+    "battle_order": 456,
     "team": [
       {
         "species": "Camerupt",
@@ -9466,12 +9907,13 @@
           "Focus Energy"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 458,
+    "battle_order": 457,
     "team": [
       {
         "species": "Mightyena",
@@ -9483,12 +9925,13 @@
           "Taunt"
         ]
       }
-    ]
+    ],
+    "level_cap": 38
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 459,
+    "battle_order": 458,
     "team": [
       {
         "species": "Golbat",
@@ -9500,12 +9943,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 40
   },
   {
     "name": "Magma Leader Maxie [2]",
     "location": "Space Center",
-    "battle_order": 460,
+    "battle_order": 459,
     "team": [
       {
         "species": "Mightyena",
@@ -9517,12 +9961,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 461,
+    "battle_order": 460,
     "team": [
       {
         "species": "Camerupt",
@@ -9534,12 +9979,13 @@
           "Amnesia"
         ]
       }
-    ]
+    ],
+    "level_cap": 44
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 462,
+    "battle_order": 461,
     "team": [
       {
         "species": "Crobat",
@@ -9551,12 +9997,13 @@
           "Mean Look"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Bird Keeper Aidan [2]",
     "location": "Route 127",
-    "battle_order": 463,
+    "battle_order": 462,
     "team": [
       {
         "species": "Swellow",
@@ -9568,12 +10015,13 @@
           "Endeavour"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 464,
+    "battle_order": 463,
     "team": [
       {
         "species": "Skarmory",
@@ -9585,12 +10033,13 @@
           "Steel Wing"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Cooltrainer Athena [2]",
     "location": "Route 127",
-    "battle_order": 465,
+    "battle_order": 464,
     "team": [
       {
         "species": "Manectric",
@@ -9601,12 +10050,13 @@
           "Quick Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 466,
+    "battle_order": 465,
     "team": [
       {
         "species": "Linoone",
@@ -9616,12 +10066,13 @@
           "Thief"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Swimmer Leonardo [2]",
     "location": "Route 126",
-    "battle_order": 467,
+    "battle_order": 466,
     "team": [
       {
         "species": "Carvanha",
@@ -9633,12 +10084,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Triathlete Isobel [2]",
     "location": "Route 126",
-    "battle_order": 468,
+    "battle_order": 467,
     "team": [
       {
         "species": "Staryu",
@@ -9650,12 +10102,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Dean",
     "location": "Route 126",
-    "battle_order": 469,
+    "battle_order": 468,
     "team": [
       {
         "species": "Carvanha",
@@ -9687,12 +10140,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 31
   },
   {
     "name": "Swimmer Nikki",
     "location": "Route 126",
-    "battle_order": 470,
+    "battle_order": 469,
     "team": [
       {
         "species": "Marill",
@@ -9714,12 +10168,13 @@
           "Hail"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Barry",
     "location": "Route 126",
-    "battle_order": 471,
+    "battle_order": 470,
     "team": [
       {
         "species": "Gyarados",
@@ -9731,11 +10186,30 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Sienna [2]",
     "location": "Route 126",
+    "battle_order": 471,
+    "team": [
+      {
+        "species": "Luvdisc",
+        "level": 33,
+        "moves": [
+          "Water Gun",
+          "Agility",
+          "Take Down",
+          "Attract"
+        ]
+      }
+    ],
+    "level_cap": 33
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 472,
     "team": [
       {
@@ -9748,28 +10222,30 @@
           "Attract"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 473,
-    "team": [
-      {
-        "species": "Luvdisc",
-        "level": 33,
-        "moves": [
-          "Water Gun",
-          "Agility",
-          "Take Down",
-          "Attract"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Triathlete Pablo [2]",
     "location": "Route 126",
+    "battle_order": 473,
+    "team": [
+      {
+        "species": "Staryu",
+        "level": 33,
+        "moves": [
+          "Camouflage",
+          "Swift",
+          "Bubblebeam",
+          "Minimize"
+        ]
+      }
+    ],
+    "level_cap": 33
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 474,
     "team": [
       {
@@ -9782,29 +10258,13 @@
           "Minimize"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 475,
-    "team": [
-      {
-        "species": "Staryu",
-        "level": 33,
-        "moves": [
-          "Camouflage",
-          "Swift",
-          "Bubblebeam",
-          "Minimize"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Brenda",
     "location": "Route 126",
-    "battle_order": 476,
+    "battle_order": 475,
     "team": [
       {
         "species": "Goldeen",
@@ -9816,12 +10276,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Triathlete Donny",
     "location": "Route 127",
-    "battle_order": 477,
+    "battle_order": 476,
     "team": [
       {
         "species": "Wingull",
@@ -9843,12 +10304,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Cooltrainer Alexa",
     "location": "Route 128",
-    "battle_order": 478,
+    "battle_order": 477,
     "team": [
       {
         "species": "Gloom",
@@ -9870,12 +10332,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Trialthete Isaiah",
     "location": "Route 128",
-    "battle_order": 479,
+    "battle_order": 478,
     "team": [
       {
         "species": "Staryu",
@@ -9887,12 +10350,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Seafloor Cavern",
-    "battle_order": 480,
+    "battle_order": 479,
     "team": [
       {
         "species": "Poochyena",
@@ -9904,12 +10368,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Team Aqua Grunt",
     "location": "Seafloor Cavern",
-    "battle_order": 481,
+    "battle_order": 480,
     "team": [
       {
         "species": "Carvanha",
@@ -9921,12 +10386,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Seafloor Cavern",
-    "battle_order": 482,
+    "battle_order": 481,
     "team": [
       {
         "species": "Zubat",
@@ -9938,12 +10404,13 @@
           "Mean Look"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Seafloor Cavern",
-    "battle_order": 483,
+    "battle_order": 482,
     "team": [
       {
         "species": "Carvanha",
@@ -9955,12 +10422,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Team Aqua Grunt [2]",
     "location": "Seafloor Cavern",
-    "battle_order": 484,
+    "battle_order": 483,
     "team": [
       {
         "species": "Mightyena",
@@ -9972,12 +10440,13 @@
           "Scary Face"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 485,
+    "battle_order": 484,
     "team": [
       {
         "species": "Golbat",
@@ -9989,12 +10458,13 @@
           "Air Cutter"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Aqua Admin Shelly [2]",
     "location": "Seafloor Cavern",
-    "battle_order": 486,
+    "battle_order": 485,
     "team": [
       {
         "species": "Sharpedo",
@@ -10006,12 +10476,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 37
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 487,
+    "battle_order": 486,
     "team": [
       {
         "species": "Mightyena",
@@ -10023,12 +10494,13 @@
           "Take Down"
         ]
       }
-    ]
+    ],
+    "level_cap": 37
   },
   {
     "name": "Aqua Leader Archie",
     "location": "Seafloor Cavern",
-    "battle_order": 488,
+    "battle_order": 487,
     "team": [
       {
         "species": "Mightyena",
@@ -10060,12 +10532,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Swimmer Reed",
     "location": "Route 129",
-    "battle_order": 489,
+    "battle_order": 488,
     "team": [
       {
         "species": "Spheal",
@@ -10087,12 +10560,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Triathlete Chase",
     "location": "Route 129",
-    "battle_order": 490,
+    "battle_order": 489,
     "team": [
       {
         "species": "Wingull",
@@ -10114,12 +10588,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Triathlete Allison",
     "location": "Route 129",
-    "battle_order": 491,
+    "battle_order": 490,
     "team": [
       {
         "species": "Wingull",
@@ -10141,12 +10616,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Clarence [2]",
     "location": "Route 129",
-    "battle_order": 492,
+    "battle_order": 491,
     "team": [
       {
         "species": "Sharpedo",
@@ -10158,12 +10634,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Tisha [2]",
     "location": "Route 129",
-    "battle_order": 493,
+    "battle_order": 492,
     "team": [
       {
         "species": "Chinchou",
@@ -10175,12 +10652,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Rodney",
     "location": "Route 130",
-    "battle_order": 494,
+    "battle_order": 493,
     "team": [
       {
         "species": "Gyarados",
@@ -10192,12 +10670,13 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Katie [2]",
     "location": "Route 130",
-    "battle_order": 495,
+    "battle_order": 494,
     "team": [
       {
         "species": "Goldeen",
@@ -10209,12 +10688,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 496,
+    "battle_order": 495,
     "team": [
       {
         "species": "Spheal",
@@ -10226,12 +10706,13 @@
           "Hail"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Santiago [2]",
     "location": "Route 130",
-    "battle_order": 497,
+    "battle_order": 496,
     "team": [
       {
         "species": "Tentacruel",
@@ -10243,12 +10724,13 @@
           "Wrap"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 498,
+    "battle_order": 497,
     "team": [
       {
         "species": "Wailmer",
@@ -10260,12 +10742,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Kevin [2]",
     "location": "Route 131",
-    "battle_order": 499,
+    "battle_order": 498,
     "team": [
       {
         "species": "Spheal",
@@ -10277,12 +10760,13 @@
           "Hail"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Triathlete Taila [2]",
     "location": "Route 131",
-    "battle_order": 500,
+    "battle_order": 499,
     "team": [
       {
         "species": "Staryu",
@@ -10294,12 +10778,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Richard",
     "location": "Route 131",
-    "battle_order": 501,
+    "battle_order": 500,
     "team": [
       {
         "species": "Pelipper",
@@ -10311,12 +10796,13 @@
           "Swallow"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Kara",
     "location": "Route 131",
-    "battle_order": 502,
+    "battle_order": 501,
     "team": [
       {
         "species": "Seaking",
@@ -10328,12 +10814,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Susie",
     "location": "Route 131",
-    "battle_order": 503,
+    "battle_order": 502,
     "team": [
       {
         "species": "Luvdisc",
@@ -10345,12 +10832,13 @@
           "Attract"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Fisherman Ronald",
     "location": "Route 132",
-    "battle_order": 504,
+    "battle_order": 503,
     "team": [
       {
         "species": "Magikarp",
@@ -10405,12 +10893,13 @@
           "Twister"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Expert Paxton [2]",
     "location": "Route 132",
-    "battle_order": 505,
+    "battle_order": 504,
     "team": [
       {
         "species": "Swellow",
@@ -10422,12 +10911,13 @@
           "Endeavour"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 506,
+    "battle_order": 505,
     "team": [
       {
         "species": "Breloom",
@@ -10439,12 +10929,13 @@
           "Counter"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Cooltrainer Darcy [2]",
     "location": "Route 132",
-    "battle_order": 507,
+    "battle_order": 506,
     "team": [
       {
         "species": "Pelipper",
@@ -10456,12 +10947,13 @@
           "Swallow"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 508,
+    "battle_order": 507,
     "team": [
       {
         "species": "Camerupt",
@@ -10473,12 +10965,13 @@
           "Rock Slide"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Expert Makayla [2]",
     "location": "Route 132",
-    "battle_order": 509,
+    "battle_order": 508,
     "team": [
       {
         "species": "Roselia",
@@ -10490,12 +10983,13 @@
           "Giga Drain"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 510,
+    "battle_order": 509,
     "team": [
       {
         "species": "Medicham",
@@ -10507,12 +11001,13 @@
           "Hi Jump Kick"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Cooltrainer Jonathan [2]",
     "location": "Route 132",
-    "battle_order": 511,
+    "battle_order": 510,
     "team": [
       {
         "species": "Kecleon",
@@ -10524,12 +11019,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 512,
+    "battle_order": 511,
     "team": [
       {
         "species": "Loudred",
@@ -10541,12 +11037,13 @@
           "Stomp"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Cooltrainer Warren",
     "location": "Route 133",
-    "battle_order": 513,
+    "battle_order": 512,
     "team": [
       {
         "species": "Graveler",
@@ -10568,12 +11065,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Debra [2]",
     "location": "Route 133",
-    "battle_order": 514,
+    "battle_order": 513,
     "team": [
       {
         "species": "Seaking",
@@ -10585,12 +11083,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Franklin [2]",
     "location": "Route 133",
-    "battle_order": 515,
+    "battle_order": 514,
     "team": [
       {
         "species": "Sealeo",
@@ -10602,12 +11101,13 @@
           "Hail"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Dragon Tamer Aaron [2]",
     "location": "Route 134",
-    "battle_order": 516,
+    "battle_order": 515,
     "team": [
       {
         "species": "Bagon",
@@ -10619,12 +11119,13 @@
           "Ember"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Cooltrainer Marley [2]",
     "location": "Route 134",
-    "battle_order": 517,
+    "battle_order": 516,
     "team": [
       {
         "species": "Manectric",
@@ -10636,12 +11137,13 @@
           "Thunderbolt"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Bird Keeper Alex [2]",
     "location": "Route 134",
-    "battle_order": 518,
+    "battle_order": 517,
     "team": [
       {
         "species": "Natu",
@@ -10653,12 +11155,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 519,
+    "battle_order": 518,
     "team": [
       {
         "species": "Swellow",
@@ -10670,12 +11173,13 @@
           "Endeavour"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Sailor Kelvin [2]",
     "location": "Route 134",
-    "battle_order": 520,
+    "battle_order": 519,
     "team": [
       {
         "species": "Machoke",
@@ -10687,12 +11191,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 521,
+    "battle_order": 520,
     "team": [
       {
         "species": "Spheal",
@@ -10704,12 +11209,13 @@
           "Hail"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Black Belt Kiyo",
     "location": "Route 132",
-    "battle_order": 522,
+    "battle_order": 521,
     "team": [
       {
         "species": "Hariyama",
@@ -10721,12 +11227,13 @@
           "Smellingsalt"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Expert Conor [2]",
     "location": "Route 133",
-    "battle_order": 523,
+    "battle_order": 522,
     "team": [
       {
         "species": "Chinchou",
@@ -10738,12 +11245,13 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 524,
+    "battle_order": 523,
     "team": [
       {
         "species": "Hariyama",
@@ -10755,12 +11263,13 @@
           "Smellingsalt"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Expert Mollie [2]",
     "location": "Route 133",
-    "battle_order": 525,
+    "battle_order": 524,
     "team": [
       {
         "species": "Whiscash",
@@ -10772,12 +11281,13 @@
           "Snore"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 526,
+    "battle_order": 525,
     "team": [
       {
         "species": "Meditite",
@@ -10789,12 +11299,13 @@
           "Hi Jump Kick"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Bird Keeper Beck",
     "location": "Route 133",
-    "battle_order": 527,
+    "battle_order": 526,
     "team": [
       {
         "species": "Tropius",
@@ -10806,12 +11317,13 @@
           "Magical Leaf"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Sailor Hudson",
     "location": "Route 134",
-    "battle_order": 528,
+    "battle_order": 527,
     "team": [
       {
         "species": "Wailmer",
@@ -10823,12 +11335,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Gilbert",
     "location": "Route 132",
-    "battle_order": 529,
+    "battle_order": 528,
     "team": [
       {
         "species": "Sharpedo",
@@ -10840,12 +11353,13 @@
           "Slash"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Dana",
     "location": "Route 132",
-    "battle_order": 530,
+    "battle_order": 529,
     "team": [
       {
         "species": "Azumarill",
@@ -10857,12 +11371,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Swimmer Linda",
     "location": "Route 133",
-    "battle_order": 531,
+    "battle_order": 530,
     "team": [
       {
         "species": "Horsea",
@@ -10884,12 +11399,13 @@
           "Twister"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Laurel",
     "location": "Route 134",
-    "battle_order": 532,
+    "battle_order": 531,
     "team": [
       {
         "species": "Luvdisc",
@@ -10911,12 +11427,13 @@
           "Attract"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Jack",
     "location": "Route 134",
-    "battle_order": 533,
+    "battle_order": 532,
     "team": [
       {
         "species": "Gyarados",
@@ -10928,12 +11445,13 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Black Belt Hitoshi [2]",
     "location": "Route 134",
-    "battle_order": 534,
+    "battle_order": 533,
     "team": [
       {
         "species": "Machop",
@@ -10945,12 +11463,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 535,
+    "battle_order": 534,
     "team": [
       {
         "species": "Machoke",
@@ -10962,12 +11481,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Batle Girl Reyna [2]",
     "location": "Route 134",
-    "battle_order": 536,
+    "battle_order": 535,
     "team": [
       {
         "species": "Meditite",
@@ -10979,12 +11499,13 @@
           "Hi Jump Kick"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 537,
+    "battle_order": 536,
     "team": [
       {
         "species": "Hariyama",
@@ -10996,12 +11517,13 @@
           "Smellingsalt"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Sis and Bro Reli & Ian [2]",
     "location": "Route 131",
-    "battle_order": 538,
+    "battle_order": 537,
     "team": [
       {
         "species": "Azumarill",
@@ -11013,12 +11535,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 539,
+    "battle_order": 538,
     "team": [
       {
         "species": "Wingull",
@@ -11030,12 +11553,13 @@
           "Quick Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Swimmer Herman",
     "location": "Route 131",
-    "battle_order": 540,
+    "battle_order": 539,
     "team": [
       {
         "species": "Wingull",
@@ -11057,12 +11581,13 @@
           "Wrap"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Beauty Tiffany [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 541,
+    "battle_order": 540,
     "team": [
       {
         "species": "Carvanha",
@@ -11074,12 +11599,13 @@
           "Swagger"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 542,
+    "battle_order": 541,
     "team": [
       {
         "species": "Sharpedo",
@@ -11091,12 +11617,13 @@
           "Taunt"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Lass Crissy [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 543,
+    "battle_order": 542,
     "team": [
       {
         "species": "Goldeen",
@@ -11108,12 +11635,13 @@
           "Waterfall"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 544,
+    "battle_order": 543,
     "team": [
       {
         "species": "Wailmer",
@@ -11125,12 +11653,13 @@
           "Rest"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Lady Brianna [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 545,
+    "battle_order": 544,
     "team": [
       {
         "species": "Seaking",
@@ -11142,12 +11671,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 40
   },
   {
     "name": "Beauty Bridget [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 546,
+    "battle_order": 545,
     "team": [
       {
         "species": "Azumarill",
@@ -11159,12 +11689,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 40
   },
   {
     "name": "Pokefan Bethany [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 547,
+    "battle_order": 546,
     "team": [
       {
         "species": "Azurill",
@@ -11176,12 +11707,13 @@
           "Water Gun"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 548,
+    "battle_order": 547,
     "team": [
       {
         "species": "Marill",
@@ -11193,12 +11725,13 @@
           "Rain Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 37
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 549,
+    "battle_order": 548,
     "team": [
       {
         "species": "Azumarill",
@@ -11210,12 +11743,13 @@
           "Double-Edge"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Beauty Olivia [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 550,
+    "battle_order": 549,
     "team": [
       {
         "species": "Clamperl",
@@ -11227,12 +11761,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 551,
+    "battle_order": 550,
     "team": [
       {
         "species": "Corphish",
@@ -11243,12 +11778,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 37
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 552,
+    "battle_order": 551,
     "team": [
       {
         "species": "Lombre",
@@ -11260,12 +11796,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Lady Daphne [2]",
     "location": "Sootopolis Gym",
-    "battle_order": 553,
+    "battle_order": 552,
     "team": [
       {
         "species": "Luvdisc",
@@ -11277,12 +11814,13 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 554,
+    "battle_order": 553,
     "team": [
       {
         "species": "Luvdisc",
@@ -11294,11 +11832,30 @@
           "Water Pulse"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Pokefan Annika [2]",
     "location": "Sootopolis Gym",
+    "battle_order": 554,
+    "team": [
+      {
+        "species": "Feebas",
+        "level": 39,
+        "moves": [
+          "Flail",
+          "Water Pulse",
+          "Return",
+          "Attract"
+        ]
+      }
+    ],
+    "level_cap": 39
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 555,
     "team": [
       {
@@ -11311,29 +11868,13 @@
           "Attract"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 556,
-    "team": [
-      {
-        "species": "Feebas",
-        "level": 39,
-        "moves": [
-          "Flail",
-          "Water Pulse",
-          "Return",
-          "Attract"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Lass Andrea",
     "location": "Sootopolis Gym",
-    "battle_order": 557,
+    "battle_order": 556,
     "team": [
       {
         "species": "Luvdisc",
@@ -11345,12 +11886,13 @@
           "Flail"
         ]
       }
-    ]
+    ],
+    "level_cap": 40
   },
   {
     "name": "Beauty Connie",
     "location": "Sootopolis Gym",
-    "battle_order": 558,
+    "battle_order": 557,
     "team": [
       {
         "species": "Goldeen",
@@ -11362,12 +11904,13 @@
           "Waterfall"
         ]
       }
-    ]
+    ],
+    "level_cap": 40
   },
   {
     "name": "Leader Juan",
     "location": "Sootopolis Gym",
-    "battle_order": 559,
+    "battle_order": 558,
     "team": [
       {
         "species": "Luvdisc",
@@ -11419,12 +11962,13 @@
           "Leer"
         ]
       }
-    ]
+    ],
+    "level_cap": 46
   },
   {
     "name": "Fisherman Jonah",
     "location": "Route 127",
-    "battle_order": 560,
+    "battle_order": 559,
     "team": [
       {
         "species": "Wailmer",
@@ -11456,12 +12000,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 32
   },
   {
     "name": "Fisherman Henry",
     "location": "Route 127",
-    "battle_order": 561,
+    "battle_order": 560,
     "team": [
       {
         "species": "Carvanha",
@@ -11483,12 +12028,13 @@
           "Wrap"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Fisherman Roger",
     "location": "Route 127",
-    "battle_order": 562,
+    "battle_order": 561,
     "team": [
       {
         "species": "Magikarp",
@@ -11516,12 +12062,13 @@
           "Twister"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Triathlete Camden",
     "location": "Route 127",
-    "battle_order": 563,
+    "battle_order": 562,
     "team": [
       {
         "species": "Staryu",
@@ -11543,12 +12090,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 33
   },
   {
     "name": "Black Belt Koji",
     "location": "Route 127",
-    "battle_order": 564,
+    "battle_order": 563,
     "team": [
       {
         "species": "Machoke",
@@ -11560,12 +12108,13 @@
           "Vital Throw"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Cooltrainer Ruben",
     "location": "Route 128",
-    "battle_order": 565,
+    "battle_order": 564,
     "team": [
       {
         "species": "Shiftry",
@@ -11587,12 +12136,13 @@
           "Sandstorm"
         ]
       }
-    ]
+    ],
+    "level_cap": 34
   },
   {
     "name": "Fisherman Wayne",
     "location": "Route 128",
-    "battle_order": 566,
+    "battle_order": 565,
     "team": [
       {
         "species": "Tentacool",
@@ -11624,12 +12174,13 @@
           "Mist"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Trialthete Katelyn",
     "location": "Route 128",
-    "battle_order": 567,
+    "battle_order": 566,
     "team": [
       {
         "species": "Staryu",
@@ -11641,12 +12192,13 @@
           "Minimize"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Swimmer Carlee [2]",
     "location": "Route 128",
-    "battle_order": 568,
+    "battle_order": 567,
     "team": [
       {
         "species": "Seaking",
@@ -11658,12 +12210,13 @@
           "Fury Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Swimmer Harrison [2]",
     "location": "Route 128",
-    "battle_order": 569,
+    "battle_order": 568,
     "team": [
       {
         "species": "Tentacruel",
@@ -11675,12 +12228,13 @@
           "Wrap"
         ]
       }
-    ]
+    ],
+    "level_cap": 35
   },
   {
     "name": "Cooltrainer Albert",
     "location": "Victory Road",
-    "battle_order": 570,
+    "battle_order": 569,
     "team": [
       {
         "species": "Magneton",
@@ -11702,12 +12256,13 @@
           "Acid Armor"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "PKMN Trainer Wally",
     "location": "Victory Road",
-    "battle_order": 571,
+    "battle_order": 570,
     "team": [
       {
         "species": "Altaria",
@@ -11759,12 +12314,13 @@
           "Calm Mind"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Cooltrainer Hope",
     "location": "Victory Road",
-    "battle_order": 572,
+    "battle_order": 571,
     "team": [
       {
         "species": "Roselia",
@@ -11776,12 +12332,13 @@
           "Toxic"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Cooltrainer Shannon",
     "location": "Victory Road",
-    "battle_order": 573,
+    "battle_order": 572,
     "team": [
       {
         "species": "Claydol",
@@ -11793,12 +12350,13 @@
           "Sandstorm"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Cooltrainer Samuel",
     "location": "Victory Road",
-    "battle_order": 574,
+    "battle_order": 573,
     "team": [
       {
         "species": "Swellow",
@@ -11830,12 +12388,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Cooltrainer Julie",
     "location": "Victory Road",
-    "battle_order": 575,
+    "battle_order": 574,
     "team": [
       {
         "species": "Sandslash",
@@ -11867,12 +12426,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Cooltrainer Owen",
     "location": "Victory Road",
-    "battle_order": 576,
+    "battle_order": 575,
     "team": [
       {
         "species": "Kecleon",
@@ -11904,12 +12464,13 @@
           "Rest"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Cooltrainer Dianne [2]",
     "location": "Victory Road",
-    "battle_order": 577,
+    "battle_order": 576,
     "team": [
       {
         "species": "Claydol",
@@ -11919,12 +12480,13 @@
           "Earthquake"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 578,
+    "battle_order": 577,
     "team": [
       {
         "species": "Lanturn",
@@ -11934,12 +12496,13 @@
           "Earthquake"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Felix [2]",
     "location": "Victory Road",
-    "battle_order": 579,
+    "battle_order": 578,
     "team": [
       {
         "species": "Medicham",
@@ -11948,12 +12511,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 580,
+    "battle_order": 579,
     "team": [
       {
         "species": "Claydol",
@@ -11963,12 +12527,13 @@
           "Earthquake"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Caroline",
     "location": "Victory Road",
-    "battle_order": 581,
+    "battle_order": 580,
     "team": [
       {
         "species": "Skarmory",
@@ -11990,12 +12555,13 @@
           "Shadow Ball"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Vito",
     "location": "Victory Road",
-    "battle_order": 582,
+    "battle_order": 581,
     "team": [
       {
         "species": "Dodrio",
@@ -12037,12 +12603,13 @@
           "Nature Power"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Cooltrainer Mitchell [2]",
     "location": "Victory Road",
-    "battle_order": 583,
+    "battle_order": 582,
     "team": [
       {
         "species": "Lunatone",
@@ -12054,12 +12621,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 584,
+    "battle_order": 583,
     "team": [
       {
         "species": "Solrock",
@@ -12071,12 +12639,13 @@
           "Shadow Ball"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Halle [2]",
     "location": "Victory Road",
-    "battle_order": 585,
+    "battle_order": 584,
     "team": [
       {
         "species": "Sableye",
@@ -12088,12 +12657,13 @@
           "Shadow Ball"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 586,
+    "battle_order": 585,
     "team": [
       {
         "species": "Absol",
@@ -12105,12 +12675,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Michelle",
     "location": "Victory Road",
-    "battle_order": 587,
+    "battle_order": 586,
     "team": [
       {
         "species": "Torkoal",
@@ -12142,12 +12713,13 @@
           "Psych Up"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Cooltrainer Edgar",
     "location": "Victory Road",
-    "battle_order": 588,
+    "battle_order": 587,
     "team": [
       {
         "species": "Cacturne",
@@ -12169,12 +12741,13 @@
           "Swallow"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Katelynn [2]",
     "location": "Victory Road",
-    "battle_order": 589,
+    "battle_order": 588,
     "team": [
       {
         "species": "Gardevoir",
@@ -12186,12 +12759,13 @@
           "Calm Mind"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 590,
+    "battle_order": 589,
     "team": [
       {
         "species": "Slaking",
@@ -12203,12 +12777,13 @@
           "Brick Break"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Cooltrainer Quincy [2]",
     "location": "Victory Road",
-    "battle_order": 591,
+    "battle_order": 590,
     "team": [
       {
         "species": "Slaking",
@@ -12220,12 +12795,13 @@
           "Flamethrower"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 592,
+    "battle_order": 591,
     "team": [
       {
         "species": "Dusclops",
@@ -12237,12 +12813,13 @@
           "Toxic"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Elite Four Sidney",
     "location": "Pok\u00e9mon  League",
-    "battle_order": 593,
+    "battle_order": 592,
     "team": [
       {
         "species": "Mightyena",
@@ -12294,12 +12871,13 @@
           "Leech Seed"
         ]
       }
-    ]
+    ],
+    "level_cap": 49
   },
   {
     "name": "Elite Four Phoebe",
     "location": "Pok\u00e9mon  League",
-    "battle_order": 594,
+    "battle_order": 593,
     "team": [
       {
         "species": "Dusclops",
@@ -12351,12 +12929,13 @@
           "Facade"
         ]
       }
-    ]
+    ],
+    "level_cap": 51
   },
   {
     "name": "Elite Four Glacia",
     "location": "Pok\u00e9mon  League",
-    "battle_order": 595,
+    "battle_order": 594,
     "team": [
       {
         "species": "Sealeo",
@@ -12408,12 +12987,13 @@
           "Sheer Cold"
         ]
       }
-    ]
+    ],
+    "level_cap": 53
   },
   {
     "name": "Elite Four Drake",
     "location": "Pok\u00e9mon  League",
-    "battle_order": 596,
+    "battle_order": 595,
     "team": [
       {
         "species": "Shelgon",
@@ -12465,12 +13045,13 @@
           "Flamethrower"
         ]
       }
-    ]
+    ],
+    "level_cap": 55
   },
   {
     "name": "Champion Wallace",
     "location": "Pok\u00e9mon  League",
-    "battle_order": 597,
+    "battle_order": 596,
     "team": [
       {
         "species": "Wailord",
@@ -12532,12 +13113,13 @@
           "Amnesia"
         ]
       }
-    ]
+    ],
+    "level_cap": 58
   },
   {
     "name": "School Kid Paul",
     "location": "Trick House",
-    "battle_order": 598,
+    "battle_order": 597,
     "team": [
       {
         "species": "Numel",
@@ -12567,12 +13149,13 @@
           "Wing Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 15
   },
   {
     "name": "School Kid Georgia",
     "location": "Trick House",
-    "battle_order": 599,
+    "battle_order": 598,
     "team": [
       {
         "species": "Shroomish",
@@ -12592,12 +13175,13 @@
           "Gust"
         ]
       }
-    ]
+    ],
+    "level_cap": 16
   },
   {
     "name": "School Kid Ted",
     "location": "Trick House",
-    "battle_order": 600,
+    "battle_order": 599,
     "team": [
       {
         "species": "Ralts",
@@ -12609,12 +13193,13 @@
           "Teleport"
         ]
       }
-    ]
+    ],
+    "level_cap": 17
   },
   {
     "name": "Camper Justin",
     "location": "Trick House",
-    "battle_order": 601,
+    "battle_order": 600,
     "team": [
       {
         "species": "Kecleon",
@@ -12626,12 +13211,13 @@
           "Screech"
         ]
       }
-    ]
+    ],
+    "level_cap": 24
   },
   {
     "name": "Picknicker Martha",
     "location": "Trick House",
-    "battle_order": 602,
+    "battle_order": 601,
     "team": [
       {
         "species": "Skitty",
@@ -12653,12 +13239,13 @@
           "Safeguard"
         ]
       }
-    ]
+    ],
+    "level_cap": 23
   },
   {
     "name": "Hiker Alan",
     "location": "Trick House",
-    "battle_order": 603,
+    "battle_order": 602,
     "team": [
       {
         "species": "Geodude",
@@ -12690,12 +13277,13 @@
           "Selfdestruct"
         ]
       }
-    ]
+    ],
+    "level_cap": 22
   },
   {
     "name": "Black Belt Yuji",
     "location": "Trick House",
-    "battle_order": 604,
+    "battle_order": 603,
     "team": [
       {
         "species": "Makuhita",
@@ -12717,12 +13305,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Black Belt Cora",
     "location": "Trick House",
-    "battle_order": 605,
+    "battle_order": 604,
     "team": [
       {
         "species": "Meditite",
@@ -12734,12 +13323,13 @@
           "Mind Reader"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Battle Girl Paula",
     "location": "Trick House",
-    "battle_order": 606,
+    "battle_order": 605,
     "team": [
       {
         "species": "Breloom",
@@ -12751,12 +13341,13 @@
           "Mach Punch"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Pok\u00e9mon Ranger Sophia",
     "location": "Trick House",
-    "battle_order": 607,
+    "battle_order": 606,
     "team": [
       {
         "species": "Swablu",
@@ -12778,12 +13369,13 @@
           "Sweet Scent"
         ]
       }
-    ]
+    ],
+    "level_cap": 38
   },
   {
     "name": "Pok\u00e9mon Ranger Sebastian",
     "location": "Trick House",
-    "battle_order": 608,
+    "battle_order": 607,
     "team": [
       {
         "species": "Cacturne",
@@ -12795,12 +13387,13 @@
           "Spikes"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Bird Keeper Benny",
     "location": "Trick House",
-    "battle_order": 609,
+    "battle_order": 608,
     "team": [
       {
         "species": "Swellow",
@@ -12832,12 +13425,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 36
   },
   {
     "name": "Psychic Joshua [2]",
     "location": "Trick House",
-    "battle_order": 610,
+    "battle_order": 609,
     "team": [
       {
         "species": "Kadabra",
@@ -12849,12 +13443,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 611,
+    "battle_order": 610,
     "team": [
       {
         "species": "Solrock",
@@ -12866,12 +13461,13 @@
           "Rock Slide"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Hex Maniac Patricia [2]",
     "location": "Trick House",
-    "battle_order": 612,
+    "battle_order": 611,
     "team": [
       {
         "species": "Banette",
@@ -12883,12 +13479,13 @@
           "Faint Attack"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 613,
+    "battle_order": 612,
     "team": [
       {
         "species": "Lunatone",
@@ -12900,12 +13497,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Psychic Mariella [2]",
     "location": "Trick House",
-    "battle_order": 614,
+    "battle_order": 613,
     "team": [
       {
         "species": "Chimecho",
@@ -12917,12 +13515,13 @@
           "Safeguard"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Gentleman Everett [2]",
     "location": "Trick House",
-    "battle_order": 615,
+    "battle_order": 614,
     "team": [
       {
         "species": "Wobbuffet",
@@ -12934,12 +13533,13 @@
           "Destiny Bond"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Psychic Alexis",
     "location": "Trick House",
-    "battle_order": 616,
+    "battle_order": 615,
     "team": [
       {
         "species": "Kirlia",
@@ -12961,12 +13561,13 @@
           "Future Sight"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Psychic Alvaro",
     "location": "Trick House",
-    "battle_order": 617,
+    "battle_order": 616,
     "team": [
       {
         "species": "Banette",
@@ -12988,12 +13589,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 41
   },
   {
     "name": "Cooltrainer Keira",
     "location": "Trick House",
-    "battle_order": 618,
+    "battle_order": 617,
     "team": [
       {
         "species": "Lairon",
@@ -13015,12 +13617,13 @@
           "Thunder"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Cooltrainer Vincent",
     "location": "Trick House",
-    "battle_order": 619,
+    "battle_order": 618,
     "team": [
       {
         "species": "Sableye",
@@ -13052,12 +13655,13 @@
           "Psych Up"
         ]
       }
-    ]
+    ],
+    "level_cap": 44
   },
   {
     "name": "Cooltrainer Leroy",
     "location": "Trick House",
-    "battle_order": 620,
+    "battle_order": 619,
     "team": [
       {
         "species": "Mawile",
@@ -13079,11 +13683,30 @@
           "Confuse Ray"
         ]
       }
-    ]
+    ],
+    "level_cap": 46
   },
   {
     "name": "Young Couple Lea & Jed [2]",
     "location": "S.S. Tidal",
+    "battle_order": 620,
+    "team": [
+      {
+        "species": "Luvdisc",
+        "level": 45,
+        "moves": [
+          "Take Down",
+          "Attract",
+          "Sweet Kiss",
+          "Flail"
+        ]
+      }
+    ],
+    "level_cap": 45
+  },
+  {
+    "name": "[2]",
+    "location": "",
     "battle_order": 621,
     "team": [
       {
@@ -13096,29 +13719,13 @@
           "Flail"
         ]
       }
-    ]
-  },
-  {
-    "name": "[2]",
-    "location": "",
-    "battle_order": 622,
-    "team": [
-      {
-        "species": "Luvdisc",
-        "level": 45,
-        "moves": [
-          "Take Down",
-          "Attract",
-          "Sweet Kiss",
-          "Flail"
-        ]
-      }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Rich Boy Garret",
     "location": "S.S. Tidal",
-    "battle_order": 623,
+    "battle_order": 622,
     "team": [
       {
         "species": "Azumarill",
@@ -13130,12 +13737,13 @@
           "Rain Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Gentleman Micah",
     "location": "S.S. Tidal",
-    "battle_order": 624,
+    "battle_order": 623,
     "team": [
       {
         "species": "Manectric",
@@ -13157,12 +13765,13 @@
           "Bite"
         ]
       }
-    ]
+    ],
+    "level_cap": 44
   },
   {
     "name": "Sailor Phillip",
     "location": "S.S. Tidal",
-    "battle_order": 625,
+    "battle_order": 624,
     "team": [
       {
         "species": "Tentacruel",
@@ -13184,12 +13793,13 @@
           "Submission"
         ]
       }
-    ]
+    ],
+    "level_cap": 44
   },
   {
     "name": "Sailor Leonard",
     "location": "S.S. Tidal",
-    "battle_order": 626,
+    "battle_order": 625,
     "team": [
       {
         "species": "Machop",
@@ -13221,12 +13831,13 @@
           "Submission"
         ]
       }
-    ]
+    ],
+    "level_cap": 43
   },
   {
     "name": "Lady Anette Naomi",
     "location": "S.S. Tidal",
-    "battle_order": 627,
+    "battle_order": 626,
     "team": [
       {
         "species": "Roselia",
@@ -13238,12 +13849,13 @@
           "Toxic"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Gentleman Thomas",
     "location": "S.S. Tidal",
-    "battle_order": 628,
+    "battle_order": 627,
     "team": [
       {
         "species": "Zangoose",
@@ -13255,12 +13867,13 @@
           "Taunt"
         ]
       }
-    ]
+    ],
+    "level_cap": 45
   },
   {
     "name": "Pokefan Colton",
     "location": "S.S. Tidal",
-    "battle_order": 629,
+    "battle_order": 628,
     "team": [
       {
         "species": "Skitty",
@@ -13322,12 +13935,13 @@
           "Heal Bell"
         ]
       }
-    ]
+    ],
+    "level_cap": 42
   },
   {
     "name": "Triathlete Kyra",
     "location": "Route 115 Island",
-    "battle_order": 630,
+    "battle_order": 629,
     "team": [
       {
         "species": "Doduo",
@@ -13349,12 +13963,13 @@
           "Rage"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Black Belt Koichi",
     "location": "Route 115 Island",
-    "battle_order": 631,
+    "battle_order": 630,
     "team": [
       {
         "species": "Machop",
@@ -13376,12 +13991,13 @@
           "Revenge"
         ]
       }
-    ]
+    ],
+    "level_cap": 28
   },
   {
     "name": "Ninja Boy Jaiden [2]",
     "location": "Route 115 Island",
-    "battle_order": 632,
+    "battle_order": 631,
     "team": [
       {
         "species": "Ninjask",
@@ -13393,12 +14009,13 @@
           "Swords Dance"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 633,
+    "battle_order": 632,
     "team": [
       {
         "species": "Gulpin",
@@ -13410,12 +14027,13 @@
           "Encore"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Expert Timothy [2]",
     "location": "Route 115 Island",
-    "battle_order": 634,
+    "battle_order": 633,
     "team": [
       {
         "species": "Hariyama",
@@ -13427,12 +14045,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 27
   },
   {
     "name": "Battle Girl Helene [2]",
     "location": "Route 115 Island",
-    "battle_order": 635,
+    "battle_order": 634,
     "team": [
       {
         "species": "Meditite",
@@ -13444,12 +14063,13 @@
           "Mind Reader"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 636,
+    "battle_order": 635,
     "team": [
       {
         "species": "Makuhita",
@@ -13461,12 +14081,13 @@
           "Whirlwind"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Psychic Alix [2]",
     "location": "Route 115 Island",
-    "battle_order": 637,
+    "battle_order": 636,
     "team": [
       {
         "species": "Kadabra",
@@ -13478,12 +14099,13 @@
           "Recover"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 638,
+    "battle_order": 637,
     "team": [
       {
         "species": "Kirlia",
@@ -13495,12 +14117,13 @@
           "Psychic"
         ]
       }
-    ]
+    ],
+    "level_cap": 26
   },
   {
     "name": "Old Couple John and Jay [2]",
     "location": "Meteor Falls",
-    "battle_order": 639,
+    "battle_order": 638,
     "team": [
       {
         "species": "Medicham",
@@ -13512,12 +14135,13 @@
           "Protect"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "[2]",
     "location": "",
-    "battle_order": 640,
+    "battle_order": 639,
     "team": [
       {
         "species": "Hariyama",
@@ -13529,12 +14153,13 @@
           "Belly Drum"
         ]
       }
-    ]
+    ],
+    "level_cap": 39
   },
   {
     "name": "Dragon Tamer Nicolas",
     "location": "Meteor Falls",
-    "battle_order": 641,
+    "battle_order": 640,
     "team": [
       {
         "species": "Altaria",
@@ -13556,12 +14181,13 @@
           "Dragonbreath"
         ]
       }
-    ]
+    ],
+    "level_cap": 37
   },
   {
     "name": "PKMN Trainer Steven",
     "location": "Meteor Falls",
-    "battle_order": 642,
+    "battle_order": 641,
     "team": [
       {
         "species": "Skarmory",
@@ -13623,6 +14249,7 @@
           "Shadow Ball"
         ]
       }
-    ]
+    ],
+    "level_cap": 78
   }
 ]
